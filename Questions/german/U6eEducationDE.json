@@ -1,0 +1,220 @@
+{
+    "Questions": [
+        {
+            "Question": "Welche Geräte sind für die Online-Bildung obligatorisch?",
+            "Explanation": "",
+            "Image": "U6_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Smartphone oder PC oder Tablet",
+                    "Correct": true
+                },
+                {
+                    "Text": "Buch, Stift, Radiergummi",
+                    "Correct": false
+                },
+                {
+                    "Text": "Fahrrad, Stuhl, Tisch",
+                    "Correct": false
+                },
+                {
+                    "Text": "Keine der Antworten ist korrekt",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Wie geht man mit technischen Schwierigkeiten während des Online-Unterrichts um?",
+            "Explanation": "",
+            "Image": "U6_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Das Gerät neu starten",
+                    "Correct": false
+                },
+                {
+                    "Text": "Den technischen Support kontaktieren",
+                    "Correct": false
+                },
+                {
+                    "Text": "Die Internetverbindung überprüfen",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Um Online-Kurse zu finden, können Sie:",
+            "Explanation": "",
+            "Image": "U6_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Im Web surfen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Einen Freund fragen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Newsletter abonnieren",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "In einem gemischten Kurs besuchen die Studierenden \"persönliche\" Klassen und haben auch Online-Aktivitäten.",
+            "Explanation": "",
+            "Image": "U6_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Eine Gemeinschaftsgefühl fördern und gemeinsame Online-Aktivitäten schaffen sind Strategien zur Vermeidung von Isolation.",
+            "Explanation": "",
+            "Image": "U6_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Digitale Bildung ist nur für städtische Gemeinschaften verfügbar.",
+            "Explanation": "",
+            "Image": "U6_6",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Nein, man kann digitale Inhalte lernen, solange es Internet gibt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Ja, das Internet ist nur in städtischen Gebieten verfügbar",
+                    "Correct": false
+                },
+                {
+                    "Text": "Richtig",
+                    "Correct": false
+                },
+                {
+                    "Text": "Vielleicht",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Was passiert, wenn mir der digitale Kurs, für den ich bezahlen möchte, nicht gefällt?",
+            "Explanation": "",
+            "Image": "U6_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Die meisten Online-Kurse bieten eine kostenlose Testphase an, die es Ihnen ermöglicht zu verstehen, ob er Ihren Bedürfnissen entspricht",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sie verlieren Ihr Geld",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ich vertraue Online-Kursen nicht",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sicherlich erhalten sie einen Prozentsatz",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Es gibt Online-Kurse, die mir in meiner Karriere helfen werden.",
+            "Explanation": "",
+            "Image": "U6_8",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Digitale Kluft",
+                    "Correct": false
+                },
+                {
+                    "Text": "Datenschutzbedenken",
+                    "Correct": false
+                },
+                {
+                    "Text": "Niedrige Übernahmequoten",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "E-Partizipation nutzt Technologie, um aktive Bürgerbeteiligung zu erleichtern.",
+            "Explanation": "",
+            "Image": "U6_9",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Ja, Online-Bildung kann Abschlusszertifikate, Mikro-Abschlüsse, berufliche Zertifikate und Online-Abschlüsse oder -diplome von akkreditierten Institutionen bereitstellen",
+                    "Correct": true
+                },
+                {
+                    "Text": "Nein, wir können nicht alles glauben, was wir im Internet lesen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Online-Bildung ist nicht so gut wie die Offline-Bildung",
+                    "Correct": false
+                },
+                {
+                    "Text": "Online-Bildung ist keine gute Idee für den Erwerb neuer Kompetenzen",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Wann können wir Tote Zeit nutzen, um zu lernen?",
+            "Explanation": "",
+            "Image": "U6_10",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sport treiben",
+                    "Correct": false
+                },
+                {
+                    "Text": "Auf Termine warten",
+                    "Correct": false
+                },
+                {
+                    "Text": "Pendeln",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "Questions": [
+        {
+            "Question": "La e-participación permite a los ciudadanos participar en la formulación de políticas y la toma de decisiones públicas a través de plataformas en línea.",
+            "Explanation": "La e-participación permite a los ciudadanos participar en la formulación de políticas y la toma de decisiones públicas a través de plataformas en línea. Destaca cómo la e-participación permite la participación ciudadana en la gobernanza a través de plataformas digitales.",
+            "Image": "U5_1",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "La e-participación promueve la transparencia y la rendición de cuentas en la gobernanza.",
+            "Explanation": "La e-participación promueve la transparencia y la rendición de cuentas en la gobernanza. Muestra cómo la e-participación puede mejorar la transparencia y la rendición de cuentas del gobierno.",
+            "Image": "U5_2",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "¿Cuáles de las siguientes opciones se consideran una amenaza/desafío para la e-salud?",
+            "Explanation": "Las redes sociales, los sistemas de votación electrónica y las consultas en línea son ejemplos de plataformas de e-participación.",
+            "Image": "U5_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Seguridad y privacidad",
+                    "Correct": false
+                },
+                {
+                    "Text": "Costos bajos",
+                    "Correct": false
+                },
+                {
+                    "Text": "mHealth",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Los beneficios de la e-participación incluyen:",
+            "Explanation": "Aumenta la participación cívica, mejora la democracia y mejora la formulación de políticas.",
+            "Image": "U5_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Aumento de la participación cívica",
+                    "Correct": false
+                },
+                {
+                    "Text": "Mejora de la democracia",
+                    "Correct": false
+                },
+                {
+                    "Text": "Mejora de la formulación de políticas",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "La e-votación permite a los ciudadanos emitir votos de forma remota utilizando sistemas electrónicos en lugar de papeletas de papel.",
+            "Explanation": "La e-votación permite a los ciudadanos votar en línea/a través de dispositivos en lugar de ir físicamente a los centros de votación.",
+            "Image": "U5_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "La formulación de políticas se refiere al proceso de elaboración de políticas, leyes, regulaciones, etc.",
+            "Explanation": "La formulación de políticas implica desarrollar políticas y leyes a nivel gubernamental. La formulación de políticas se refiere al proceso de elaboración de políticas, leyes, regulaciones, etc. Define la formulación de políticas y su papel en la gobernanza.",
+            "Image": "U5_6",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Las plataformas de e-consulta permiten a los ciudadanos enviar opiniones sobre temas de política pública en línea.",
+            "Explanation": "Las e-consultas permiten a los ciudadanos proporcionar información sobre políticas a través de plataformas digitales. | permiten a los ciudadanos enviar opiniones sobre temas de política pública en línea. | Las plataformas de e-consulta permiten a los ciudadanos enviar opiniones sobre temas de política pública en línea.",
+            "Image": "U5_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Los desafíos de la e-participación incluyen:",
+            "Explanation": "Utiliza las TIC y plataformas digitales para permitir la participación ciudadana. Todas las opciones son desafíos clave.",
+            "Image": "U5_8",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Brecha digital",
+                    "Correct": false
+                },
+                {
+                    "Text": "Preocupaciones sobre la privacidad",
+                    "Correct": false
+                },
+                {
+                    "Text": "Niveles bajos de adopción",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "La e-participación utiliza la tecnología para facilitar la participación activa de los ciudadanos.",
+            "Explanation": "Utiliza las TIC y plataformas digitales para permitir la participación ciudadana. La e-participación utiliza la tecnología para facilitar la participación activa de los ciudadanos.",
+            "Image": "U5_9",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Participar en línea de diferentes maneras, firmas en línea, responder encuestas, bombardear correos electrónicos, etc., ¡siempre es una buena idea!",
+            "Explanation": "Una mayor participación ciudadana y decisiones políticas mejoradas son los objetivos. El objetivo de la e-participación es mejorar la participación ciudadana y la toma de decisiones públicas, para mejorar la participación ciudadana y la toma de decisiones públicas.",
+            "Image": "U5_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

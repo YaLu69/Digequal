@@ -1,0 +1,203 @@
+{
+    "Questions": [
+        {
+            "Question": "Vuoi comunicare con l'ufficio di anagrafe. Invii:",
+            "Explanation": "Inviare un'email è un metodo ampiamente accettato ed efficiente di comunicazione per richieste formali. Consente la documentazione, la consegna rapida e il facile tracciamento della conversazione.",
+            "Image": "U1_1",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Posta elettronica",
+                    "Correct": true
+                },
+                {
+                    "Text": "SMS",
+                    "Correct": false
+                },
+                {
+                    "Text": "Posta cartacea",
+                    "Correct": false
+                },
+                {
+                    "Text": "Messaggio WhatsApp",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Qual è il modo più veloce per pagare le bollette?",
+            "Explanation": "Utilizzare uno scanner QR consente pagamenti delle bollette veloci ed efficienti. Con un codice QR, è possibile scansionare il codice utilizzando il proprio smartphone o altri dispositivi e le informazioni di pagamento vengono automaticamente populate, rendendo la transazione rapida e conveniente. Questo metodo elimina la necessità di inserire manualmente i dati e riduce il rischio di errori, garantendo un processo di pagamento rapido.",
+            "Image": "U1_2",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Scanner QR",
+                    "Correct": true
+                },
+                {
+                    "Text": "Persone in fila",
+                    "Correct": false
+                },
+                {
+                    "Text": "Bonifico bancario",
+                    "Correct": false
+                },
+                {
+                    "Text": "Scambio di denaro tra le mani",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Vuoi fare la tua dichiarazione dei redditi...",
+            "Explanation": "Utilizzare il portale governativo per fare la tua dichiarazione dei redditi è l'opzione più efficiente e affidabile. I portali governativi sono specificamente progettati per semplificare il processo di dichiarazione dei redditi, offrendo interfacce user-friendly, guida passo-passo e metodi di invio sicuri. Questa opzione risparmia tempo, garantisce precisione e consente la comoda presentazione online delle dichiarazioni dei redditi.",
+            "Image": "U1_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Utilizza il portale governativo e risparmia tempo",
+                    "Correct": true
+                },
+                {
+                    "Text": "Chiedi aiuto a un amico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Vai in banca",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non è necessario",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Ricevi un documento da firmare. Non hai molto tempo.",
+            "Explanation": "Firmare il documento digitalmente è l'opzione più efficiente e risparmiatrice di tempo in questo scenario. Le firme digitali, create utilizzando metodi di crittografia sicuri, sono riconosciute legalmente in molti paesi e sono ampiamente accettate per vari documenti ufficiali. Questo metodo consente di firmare il documento elettronicamente senza la necessità di stampare, scannerizzare o gestire fisicamente la documentazione. È un modo rapido, conveniente e valido per gestire i documenti, specialmente quando si è di fretta.",
+            "Image": "U1_4",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Lo firmi digitalmente",
+                    "Correct": true
+                },
+                {
+                    "Text": "Lo ignori",
+                    "Correct": false
+                },
+                {
+                    "Text": "Lo stampi, lo firmi, lo scannerizzi e lo rispedisci",
+                    "Correct": false
+                },
+                {
+                    "Text": "Fai una foto della tua firma e la copi e incolli",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Vuoi verificare se hai pagato il bollo auto:",
+            "Explanation": "Molti luoghi offrono servizi online o app dove è possibile verificare lo stato di pagamento del bollo auto utilizzando le proprie informazioni di identificazione. Questo metodo consente una verifica rapida e conveniente senza fare affidamento su ricevute cartacee o chiedere ad altri. Fornisce inoltre un record affidabile e aggiornato dello stato di pagamento.",
+            "Image": "U1_5",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Puoi controllare su un'app specifica, utilizzando la tua carta d'identità",
+                    "Correct": true
+                },
+                {
+                    "Text": "Chiedi a qualcuno della tua famiglia",
+                    "Correct": false
+                },
+                {
+                    "Text": "È impossibile: non dimentichi mai",
+                    "Correct": false
+                },
+                {
+                    "Text": "Cerchi la ricevuta cartacea",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "È sempre necessario andare al municipio per richiedere un certificato:",
+            "Explanation": "Non è sempre necessario andare al municipio per richiedere un certificato. Molti certificati e documenti possono essere richiesti online, attraverso siti web o portali governativi, senza la necessità di visitare un ufficio fisico. I servizi online sono diventati sempre più comuni, offrendo comodità ed efficienza per varie attività amministrative, inclusa la richiesta di certificati.",
+            "Image": "U1_6",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "I certificati scaricati sono meno affidabili di quelli ottenuti dal municipio",
+            "Explanation": "L'affidabilità dei certificati dipende dalla fonte e dalle procedure. Sia i certificati fisici che digitali possono essere affidabili se emessi da autorità legittime e seguono protocolli di autenticazione e crittografia. Utilizza fonti ufficiali e siti web sicuri o portali governativi per scaricare certificati digitali.",
+            "Image": "U1_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "L'uso dei servizi pubblici online può evitare questa situazione.",
+            "Explanation": "L'uso dei servizi pubblici online può effettivamente aiutare ad evitare determinate situazioni. I servizi pubblici online offrono vari vantaggi, tra cui comodità, efficienza e accessibilità. Utilizzando i servizi online, le persone possono evitare lunghe code, risparmiare tempo, ridurre la burocrazia e completare le attività comodamente da casa o dall'ufficio. Inoltre, i servizi online spesso forniscono aggiornamenti in tempo reale e notifiche, migliorando la comunicazione tra cittadini e autorità governative.",
+            "Image": "U1_8",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Ho lasciato la mia carta a casa! Nessun problema, posso pagare perché il mio telefono ha...",
+            "Explanation": "La tecnologia NFC (Near Field Communication) consente di effettuare pagamenti senza contatto utilizzando il proprio smartphone, anche se non si ha la carta fisica con sé. Semplicemente toccando il telefono su un terminale di pagamento compatibile, è possibile avviare una transazione e effettuare pagamenti senza la necessità della propria carta.",
+            "Image": "U1_9",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "NFC",
+                    "Correct": true
+                },
+                {
+                    "Text": "Molta denaro",
+                    "Correct": false
+                },
+                {
+                    "Text": "Strumenti speciali",
+                    "Correct": false
+                },
+                {
+                    "Text": "WiFi",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "È una giornata impegnativa e vuoi risparmiare tempo, quindi...",
+            "Explanation": "Avere pronta la propria identità digitale può risparmiare tempo in una giornata impegnativa. Molti servizi e agenzie governative offrono portali online dove è possibile accedere alle informazioni, completare transazioni e risolvere richieste senza la necessità di visite fisiche. Avendo pronta la propria identità digitale e i documenti necessari, è possibile utilizzare efficientemente i servizi online, risparmiando tempo e evitando il fastidio di code o attese sulle linee clienti.",
+            "Image": "U1_10",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Hai la tua identità digitale pronta",
+                    "Correct": true
+                },
+                {
+                    "Text": "Fai una coda all'agenzia delle imposte",
+                    "Correct": false
+                },
+                {
+                    "Text": "Cerchi tuo nipote per farti aiutare",
+                    "Correct": false
+                },
+                {
+                    "Text": "Chiami una linea clienti per essere più veloce",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

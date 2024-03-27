@@ -1,0 +1,169 @@
+{
+    "Questions": [
+        {
+            "Question": "Können Sie Identitätsdiebstahl erleiden, wenn Sie eine Reise in einem Reisebüro buchen?",
+            "Explanation": "Identitätsdiebstahl kann auftreten, wenn jemand Zugang zu Ihren persönlichen Informationen wie Ihrem Namen, Ihrer Adresse oder Ihren Kreditkartendaten erhält, während Ihre Buchung verarbeitet wird. Es ist wichtig, vorsichtig zu sein und Ihre persönlichen Informationen zu schützen, egal ob Sie online oder persönlich buchen.",
+            "Image": "U4_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Ja",
+                    "Correct": true
+                },
+                {
+                    "Text": "Nein",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nur wenn Sie bar bezahlen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nur wenn Sie telefonisch buchen",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Ein Freund oder Verwandter schickt Ihnen eine Nachricht von einer unbekannten Nummer und bittet um Hilfe:",
+            "Explanation": "Wenn Ihnen jemand, den Sie kennen, eine Nachricht von einer unbekannten Nummer schickt und um Hilfe bittet, sollten Sie die Identität des Anrufers überprüfen, bevor Sie handeln. Sie können den Anrufer unter einer bekannten Nummer anrufen oder ihnen spezifische Fragen stellen, die nur sie kennen, um sicherzustellen, dass es wirklich sie sind.",
+            "Image": "U4_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Versuchen Sie, die Identität zu überprüfen",
+                    "Correct": true
+                },
+                {
+                    "Text": "Bitten Sie um Einsicht in ihr Social-Media-Profil",
+                    "Correct": false
+                },
+                {
+                    "Text": "Senden Sie sofort Geld",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie tun nichts",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie lesen die Zeitung online, aber die Buchstaben sind zu klein. Was tun Sie?",
+            "Explanation": "Wenn die Buchstaben zu klein sind, wenn Sie die Zeitung online lesen, können Sie die Schriftgröße in den Website-Einstellungen anpassen. Die meisten Websites ermöglichen es Ihnen, die Schriftgröße zu vergrößern oder zu verkleinern, um das Lesen angenehmer zu machen. Auf diese Weise können Sie weiterhin ohne Schwierigkeiten lesen.",
+            "Image": "U4_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Passen Sie die Schriftgröße in den Website-Einstellungen an",
+                    "Correct": true
+                },
+                {
+                    "Text": "Ignorieren Sie das Problem und lesen Sie weiter",
+                    "Correct": false
+                },
+                {
+                    "Text": "Schließen Sie die Website und suchen Sie eine gedruckte Zeitung",
+                    "Correct": false
+                },
+                {
+                    "Text": "Kaufen Sie einen neuen Computer mit einem größeren Bildschirm",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Was ist die beste Zahlungsmethode beim Buchen online?",
+            "Explanation": "",
+            "Image": "U4_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "PayPal oder Kreditkarte",
+                    "Correct": true
+                },
+                {
+                    "Text": "Nachnahme",
+                    "Correct": false
+                },
+                {
+                    "Text": "Direkte Banküberweisung",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie zahlen nicht",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Warum ist es wichtig, starke Passwörter für Online-Konten zu erstellen?",
+            "Explanation": "Starke Passwörter für Online-Konten zu erstellen, ist entscheidend, um persönliche Informationen zu schützen und zu verhindern, dass unbefugte Personen Zugriff auf sensible Daten erhalten, um die Privatsphäre und Sicherheit zu schützen.",
+            "Image": "U4_5",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Um Ihre Konten vor unbefugtem Zugriff zu schützen",
+                    "Correct": true
+                },
+                {
+                    "Text": "Um Ihre Freunde mit Ihrem technischen Know-how zu beeindrucken",
+                    "Correct": false
+                },
+                {
+                    "Text": "Um es Ihnen leichter zu machen, sich Ihre Anmeldedaten zu merken",
+                    "Correct": false
+                },
+                {
+                    "Text": "Um spezielle Rabatte auf elektronische Dienstleistungen zu erhalten",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Online-Freizeitaktivitäten können Unterhaltung direkt vor Ihre Haustür bringen.",
+            "Explanation": "",
+            "Image": "U4_6",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Es ist sicher, auf Links in E-Mails zu klicken, die große Preise oder Lotteriegewinne versprechen.",
+            "Explanation": "Das Klicken auf Links in E-Mails, die große Preise oder Lotteriegewinne versprechen, kann riskant sein. Diese E-Mails könnten betrügerisch sein und darauf abzielen, persönliche Informationen zu stehlen oder schädliche Viren zu verbreiten.",
+            "Image": "U4_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Online-Spiele sind nur für Kinder.",
+            "Explanation": "Es gibt eine Vielzahl von Online-Spielen, die für unterschiedliche Vorlieben und Fähigkeiten entwickelt wurden. Die Teilnahme an Online-Spielen kann zahlreiche Vorteile bieten, wie die Verbesserung kognitiver Fähigkeiten, die Förderung sozialer Interaktion durch Mehrspieler-Spiele, die Reduzierung von Stress und eine unterhaltsame Möglichkeit, mental aktiv zu bleiben. Online-Spiele können eine angenehme und bereichernde Erfahrung sein. Wir ermutigen Sie, die digitale Welt ohne Angst oder Zögern zu erkunden!",
+            "Image": "U4_8",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Airbnb ist nur für Unterkünfte.",
+            "Explanation": "Auf Airbnb finden Sie eine Vielzahl von Aktivitäten, die Sie in Ihrer Stadt oder auf Reisen unternehmen können. Es ist eine großartige Möglichkeit, eine Stadt wie ein Einheimischer kennenzulernen.",
+            "Image": "U4_9",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Kundenbewertungen auf Buchungsplattformen können Ihnen eine Vorstellung von der Qualität eines Hotels geben.",
+            "Explanation": "",
+            "Image": "U4_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "Questions": [
+        {
+            "Question": "E-Gesundheit ermöglicht es uns, Arzttermine einfach über Online-Plattformen zu buchen.",
+            "Explanation": "Online-Plattformen ermöglichen es Benutzern, Arzttermine zu buchen, indem sie Geld und Zeit sparen, wenn sie keine Zeit haben, persönlich ihren Arzt aufzusuchen.",
+            "Image": "U2_1",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Die Nutzung von Online-Plattformen ermöglicht es den Menschen, Zeit zu sparen und physische Interaktionen mit Ärzten zu eliminieren.",
+            "Explanation": "Die Verwendung von Online-Plattformen für die Gesundheitsversorgung ermöglicht es den Menschen, Zeit zu sparen und die Notwendigkeit von persönlichen Arztbesuchen zu reduzieren, indem sie bequemen virtuellen Zugang zu medizinischem Rat und Dienstleistungen bieten.",
+            "Image": "U2_2",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Welche der folgenden Optionen gelten als Bedrohung/Herausforderung der E-Gesundheit.",
+            "Explanation": "Sicherheit und Datenschutz sind die Hauptprobleme, mit denen E-Gesundheit im Laufe der Jahre konfrontiert war, da die persönlichen Informationen der Menschen leicht gehackt oder gestohlen werden können.",
+            "Image": "U2_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Sicherheit und Datenschutz",
+                    "Correct": true
+                },
+                {
+                    "Text": "Niedrige Kosten",
+                    "Correct": false
+                },
+                {
+                    "Text": "mHealth",
+                    "Correct": false
+                },
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "E-Gesundheit gibt uns Zugang zu unseren medizinischen Unterlagen online.",
+            "Explanation": "E-Gesundheit, auch als elektronische Gesundheit bekannt, bedeutet, dass Menschen unter anderem Zugang zu ihren medizinischen Informationen nicht nur von Ärzten, sondern auch von mehreren Geräten und Diensten haben können.",
+            "Image": "U2_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Telemedizinische Dienste ermöglichen es uns, jederzeit und überall mit Gesundheitsfachkräften zu konsultieren.",
+            "Explanation": "Der Erhalt telemedizinischer Konsultationen bedeutet, dass Patienten sich nur mit Gesundheitsfachkräften treffen können, indem sie ihre elektronischen Geräte verwenden, unabhängig von Zeit oder Ort.",
+            "Image": "U2_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Beispiele für E-Gesundheitsdienste:",
+            "Explanation": "E-Gesundheitsdienste umfassen nur Anwendungen, Spiele und tragbare Technologien. Die anderen Optionen sind mit einigen Arten von E-Gesundheit gemischt, nicht mit Dienstleistungen.",
+            "Image": "U2_6",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Apps, Serious Games, Wearable Technology",
+                    "Correct": true
+                },
+                {
+                    "Text": "HER, E-Prescribing, Telehealth",
+                    "Correct": false
+                },
+                {
+                    "Text": "CHI, M-Health, Sensoren, Wearable-Geräte",
+                    "Correct": false
+                },
+                {
+                    "Text": "Keine der Antworten ist korrekt",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "E-Gesundheits-Apps/Wearables/Tracker helfen uns, folgendes zu verfolgen:",
+            "Explanation": "E-Gesundheitstracker sind so konzipiert, dass sie gesundheitsbezogene Probleme wie Medikation, Aktivitätsniveau, Schlafmuster usw. überwachen können, um das Management und die Überwachung der eigenen Gesundheit zu unterstützen.",
+            "Image": "U2_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Medikation",
+                    "Correct": false
+                },
+                {
+                    "Text": "Schlafmuster",
+                    "Correct": false
+                },
+                {
+                    "Text": "Aktivitätsniveau",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "E-Gesundheitskompetenz:",
+            "Explanation": "E-Gesundheitskompetenz schützt nicht nur die Menschen vor Online-Schäden/Fehlinformationen und verhindert Gesundheitsprobleme, sondern stellt auch sicher, dass Menschen Online-Informationen kritisch bewerten und Online-Tools effektiv nutzen können, um ihre Gesundheit zu verwalten.",
+            "Image": "U2_8",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Schützt die Gesundheit der Menschen und verbessert das Management von Gesundheitsproblemen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Schützt die Menschen vor Schaden und befähigt sie, an informierten, gesundheitsbezogenen Entscheidungen teilzunehmen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Hilft den Menschen, Gesundheitsprobleme zu verhindern",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Wir können sicher mit Ärzten über E-Gesundheitsnachrichtensysteme kommunizieren.",
+            "Explanation": "Obwohl Sicherheit eine Herausforderung für E-Gesundheit ist, folgen Nachrichtensysteme oft wichtigen Schritten, um die Sicherheit der Patientendaten zu gewährleisten, wie Benutzerauthentifizierung, sichere Netzwerke, verschlüsselte Kommunikation, Überwachung auf verdächtige Aktivitäten und mehr.",
+            "Image": "U2_9",
+
+
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Die falsche Interpretation von Online-Gesundheitsinformationen könnte zu falschen Gesundheitsentscheidungen führen.",
+            "Explanation": "Wenn wir Gesundheitsinformationen, die wir online finden, missverstehen, könnten wir falsche Entscheidungen für unsere Gesundheit treffen. Online-Quellen könnten ungenau sein oder unsere persönlichen Bedürfnisse nicht berücksichtigen, was dazu führt, dass wir Entscheidungen auf der Grundlage falscher Informationen treffen, die unsere Gesundheit eher schädigen als verbessern könnten.",
+            "Image": "U2_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "Questions": [
+        {
+            "Question": "Sie erhalten ein Bußgeld für eine Verkehrsübertretung. Wie können Sie die Zahlung einfach leisten?",
+            "Explanation": "Es steht für digitale Regierungsdienste, die es Bürgern ermöglichen, Bußgelder bequem von zu Hause aus zu zahlen, anstatt zu einem physischen Büro zu fahren. Sie bieten schnellere und effizientere Optionen im Vergleich zum traditionellen persönlichen Prozess.",
+            "Image": "U3_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Zahlen Sie das Bußgeld bequem und sicher über das Online-Portal der Regierung, scannen Sie den QR-Code auf dem Bußgeld und schließen Sie die Zahlung ab",
+                    "Correct": true
+                },
+                {
+                    "Text": "Besuchen Sie das Rathaus, das zur Bearbeitung von Verkehrsbußgeldern ausgestattet ist",
+                    "Correct": false
+                },
+                {
+                    "Text": "Gehen Sie so schnell wie möglich zur Post, um das Bußgeld zu bezahlen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie ignorieren es",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie möchten den Kontostand Ihres Bankkontos überprüfen. Sie:",
+            "Explanation": "Es nutzt die digitale Banking-Technologie, um einen einfachen, Echtzeit-Zugriff auf Kontoinformationen im Vergleich zu traditionellen persönlichen oder postalischen Methoden bereitzustellen.",
+            "Image": "U3_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Sie überprüfen es in der Banking-App Ihrer Bank auf Ihrem Smartphone und, wenn Sie einen Laptop haben, in Ihrem Browser",
+                    "Correct": true
+                },
+                {
+                    "Text": "Gehen Sie zu Ihrer örtlichen Bank und holen Sie sich einen Kontoauszug",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie warten darauf, dass Ihre Bank Ihnen vierteljährlich den Kontoauszug zusendet",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie müssen es nicht überprüfen, da Sie nur Bargeld verwenden",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie haben Geld von einem Freund geliehen. Was ist der bequemste Weg, um das Geld zurückzuzahlen?",
+            "Explanation": "Digitale Geldbörsen wie PayPal ermöglichen den sofortigen Transfer von Geld direkt zwischen den Parteien. Dies bietet eine schnelle, einfache Möglichkeit, Geld, das man jemandem schuldet, fern zu überweisen, ohne Bargeld abheben zu müssen oder langsamere Optionen wie Schecks oder Banküberweisungen zu verwenden. Digitale Zahlungen sind bequem und sofortig.",
+            "Image": "U3_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Überweisen Sie das Geld mit einer digitalen Geldbörse (z.B. PayPal)",
+                    "Correct": true
+                },
+                {
+                    "Text": "Schreiben Sie einen Scheck",
+                    "Correct": false
+                },
+                {
+                    "Text": "Heben Sie Geld an einem Geldautomaten ab",
+                    "Correct": false
+                },
+                {
+                    "Text": "Versprechen Sie, das Geld beim nächsten Treffen zurückzugeben",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie möchten Ihre Nebenkosten bezahlen. Welche ist die schnellste und einfachste Möglichkeit, dies zu tun?",
+            "Explanation": "Die meisten Versorgungsunternehmen bieten jetzt Online-Zahlungsoptionen über ihre Website oder über eine mobile App an. Dies ermöglicht es Kunden, ihre Rechnungen sicher und ferngesteuert in nur wenigen Klicks zu bezahlen, ohne ein physisches Büro oder eine Postfiliale aufsuchen zu müssen. Digitale Zahlungen sind schnell und bequem.",
+            "Image": "U3_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Zahlen Sie über eine sichere Online-Plattform oder mobile App",
+                    "Correct": true
+                },
+                {
+                    "Text": "Stehen Sie in der Schlange an einem nahegelegenen Postamt",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie wechseln sich mit Ihren Freunden ab, um zur Post zu gehen und zu bezahlen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie zahlen nicht",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie sind an der Kasse in einem Geschäft. Sie bemerken, dass Sie Ihre Brieftasche vergessen haben; Sie geraten in Panik, bis Sie bemerken…",
+            "Explanation": "Mobile Geldbörsen ermöglichen es, sicher nur mit Ihrem Smartphone zu bezahlen, ohne eine physische Brieftasche mitführen zu müssen. Dies ist sehr praktisch in Situationen, in denen Sie Ihre normale Brieftasche vergessen haben.",
+            "Image": "U3_5",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Richten Sie eine digitale Geldbörse auf Ihrem Smartphone ein und zahlen Sie mit NFC",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sie bitten andere Kunden um Geld und versprechen ihnen, es zurückzuzahlen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Es ist nur ein Traum",
+                    "Correct": false
+                },
+                {
+                    "Text": "Das Geschäft wird Ihnen erlauben, die Artikel bei Ihrem nächsten Besuch zu bezahlen",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Es ist nicht sicher, digital zu bezahlen.",
+            "Explanation": "Digitale Zahlungen bergen einige Risiken von Hacking/Betrug, können aber sehr sicher sein, wenn Benutzer die richtigen Sicherheitsvorkehrungen treffen und gute Praktiken befolgen. Aufklärung ist der Schlüssel zu sicheren digitalen Transaktionen.",
+            "Image": "U3_6",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Wenn Sie die Dos und Don'ts kennen, ist es sehr sicher",
+                    "Correct": true
+                },
+                {
+                    "Text": "Wahr",
+                    "Correct": false
+                },
+                {
+                    "Text": "Falsch",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ich weiß es nicht",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Wenn ich für einen Service bezahlen möchte, ist es einfach immer besser, persönlich zu bezahlen.",
+            "Explanation": "Digitale Zahlungen sind im Allgemeinen überlegen für moderne Dienstleistungen, aber es gibt möglicherweise einige Ausnahmen, bei denen eine persönliche Zahlung je nach Kontext erforderlich oder bevorzugt sein kann. Aber insgesamt bieten digitale Zahlungen viele Vorteile.",
+            "Image": "U3_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Es hängt vom Szenario ab, aber digital zu bezahlen ist fast immer bequemer, genauso sicher und spart Ihnen viel Zeit",
+                    "Correct": true
+                },
+                {
+                    "Text": "Wahr",
+                    "Correct": false
+                },
+                {
+                    "Text": "Falsch",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ich weiß es nicht",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Die Einrichtung einer digitalen Geldbörse auf einem Smartphone (Google Pay, Apple Pay usw.) ist…",
+            "Explanation": "Die Einrichtung einer digitalen Geldbörse auf einem Smartphone, wie Google Pay oder Apple Pay, wird einfach und problemlos, wenn Sie klare und einfache Anweisungen erhalten. Diese Apps für digitale Geldbörsen sind mit benutzerfreundlichen Schnittstellen und Schritt-für-Schritt-Anleitungen ausgestattet, was den Einrichtungsprozess für Benutzer, die den Anweisungen folgen, einfach macht.",
+            "Image": "U3_8",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Einfach mit den richtigen Anweisungen",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sehr kompliziert",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ich habe keine Ahnung",
+                    "Correct": false
+                },
+                {
+                    "Text": "Unnötig",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Die Möglichkeit, E-Payment-Methoden wie digitale Geldbörsen oder NFC zu verwenden, ist…",
+            "Explanation": "Die Möglichkeit, E-Payment-Methoden wie digitale Geldbörsen oder NFC (Near Field Communication) zu verwenden, bietet erhebliche Vorteile.",
+            "Image": "U3_9",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Für viele Aspekte des täglichen Lebens unerlässlich und sehr praktisch",
+                    "Correct": true
+                },
+                {
+                    "Text": "Nicht wichtig",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nicht nützlich, wenn Sie im Lebensmittelgeschäft sind und Ihre physische Geldbörse nicht mitbringen möchten",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nicht nützlich, wenn Sie zu Hause Bargeld vergessen haben",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie müssen Ihre Einkommensteuer zahlen. Welche Zahlungsmethode ermöglicht das nahtloseste Zahlungserlebnis?",
+            "Explanation": "Die Einreichung Ihrer Einkommensteuererklärung online reduziert den Papierkram, spart Zeit und stellt die Genauigkeit sicher. Sie beseitigt die Notwendigkeit physischer Besuche, reduziert das Risiko von Fehlern und führt oft zu einer schnelleren Bearbeitung Ihrer Zahlung, was sie zur nahtlosesten Methode für die Zahlung von Einkommensteuern macht.",
+            "Image": "U3_10",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Reichen Sie Ihre Einkommensteuererklärung online ein und zahlen Sie elektronisch mit einer sicheren E-Payment-Option",
+                    "Correct": true
+                },
+                {
+                    "Text": "Besuchen Sie Ihr örtliches Steueramt, das für die Zahlung von Einkommensteuern vorgesehen ist",
+                    "Correct": false
+                },
+                {
+                    "Text": "Senden Sie einen Scheck oder eine Postanweisung zusammen mit Ihrer Steuererklärung an das Steueramt",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nehmen Sie an, dass Sie keine Einkommensteuererklärung einreichen müssen, da Ihr Einkommen niedrig ist",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "Questions": [
+        {
+            "Question": "Quais dispositivos são obrigatórios para a educação online?",
+            "Explanation": "",
+            "Image": "U6_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Smartphone, pc ou tablet",
+                    "Correct": true
+                },
+                {
+                    "Text": "Livro, caneta, borracha",
+                    "Correct": false
+                },
+                {
+                    "Text": "Bicicleta, cadeira, mesa",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nenhuma das respostas está correta",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Como lidar com dificuldades técnicas durante a sessão online?",
+            "Explanation": "",
+            "Image": "U6_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Todas as respostas estão corretas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Reiniciar o dispositivo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Entrar em contato com o suporte técnico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Verificar a conexão com a internet",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Para encontrar cursos online você pode:",
+            "Explanation": "",
+            "Image": "U6_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas as respostas estão corretas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Navegar na web",
+                    "Correct": false
+                },
+                {
+                    "Text": "Perguntar a um amigo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Assinar a newsletter",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Em um curso híbrido, os alunos frequentam aulas \"presenciais\" e também têm atividades online.",
+            "Explanation": "",
+            "Image": "U6_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Promover um senso de comunidade e criar atividades online colaborativas são estratégias para evitar o isolamento.",
+            "Explanation": "",
+            "Image": "U6_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "A educação digital está disponível apenas para comunidades urbanas.",
+            "Explanation": "",
+            "Image": "U6_6",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Não, é possível aprender coisas digitais desde que haja internet",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sim, a internet está disponível apenas em áreas urbanas",
+                    "Correct": false
+                },
+                {
+                    "Text": "Verdadeiro",
+                    "Correct": false
+                },
+                {
+                    "Text": "Talvez",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "O que acontece se eu não gostar do curso digital pelo qual estou disposto a pagar?",
+            "Explanation": "",
+            "Image": "U6_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "A maioria dos cursos online oferece um período de teste gratuito que permite entender se ele atende às suas necessidades",
+                    "Correct": true
+                },
+                {
+                    "Text": "Você perde seu dinheiro",
+                    "Correct": false
+                },
+                {
+                    "Text": "Não confio em cursos online",
+                    "Correct": false
+                },
+                {
+                    "Text": "Certamente, eles receberão uma porcentagem",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Existem cursos online que me ajudarão na minha carreira.",
+            "Explanation": "",
+            "Image": "U6_8",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas as respostas estão corretas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Divisão digital",
+                    "Correct": false
+                },
+                {
+                    "Text": "Preocupações com a privacidade",
+                    "Correct": false
+                },
+                {
+                    "Text": "Baixos níveis de adoção",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "A e-participação utiliza tecnologia para facilitar a participação cidadã ativa.",
+            "Explanation": "",
+            "Image": "U6_9",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Sim, a educação online pode fornecer certificados de conclusão de curso, micro credenciais, certificações profissionais e diplomas ou graus online, de instituições credenciadas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Não, não podemos acreditar em tudo o que lemos na internet",
+                    "Correct": false
+                },
+                {
+                    "Text": "A educação online não é tão boa quanto a offline",
+                    "Correct": false
+                },
+                {
+                    "Text": "A educação online não é uma boa ideia para a aquisição de novas competências",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Quando podemos aproveitar o tempo ocioso para aprender?",
+            "Explanation": "",
+            "Image": "U6_10",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Todas as respostas estão corretas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Exercitando-se",
+                    "Correct": false
+                },
+                {
+                    "Text": "Esperando por consultas",
+                    "Correct": false
+                },
+                {
+                    "Text": "Comutando",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

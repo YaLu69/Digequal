@@ -1,0 +1,169 @@
+{
+    "Questions": [
+        {
+            "Question": "¿Puedes ser víctima de robo de identidad al reservar un viaje en una agencia de viajes?",
+            "Explanation": "El robo de identidad puede ocurrir si alguien obtiene acceso a tu información personal, como tu nombre, dirección o detalles de tarjeta de crédito, mientras procesan tu reserva. Es importante tener cuidado y proteger tu información personal ya sea que reserves en línea o en persona.",
+            "Image": "U4_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Sí",
+                    "Correct": true
+                },
+                {
+                    "Text": "No",
+                    "Correct": false
+                },
+                {
+                    "Text": "Solo si pagas en efectivo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Solo si reservas por teléfono",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Un amigo o familiar te envía un mensaje desde un número desconocido pidiendo ayuda:",
+            "Explanation": "Si alguien que conoces te envía un mensaje desde un número desconocido pidiendo ayuda, debes verificar la identidad del remitente antes de tomar medidas. Puedes llamar al remitente en un número conocido o hacerles preguntas específicas que solo ellos conocen para asegurarte de que realmente son ellos.",
+            "Image": "U4_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Intentar verificar la identidad",
+                    "Correct": true
+                },
+                {
+                    "Text": "Pedir ver su perfil en redes sociales",
+                    "Correct": false
+                },
+                {
+                    "Text": "Enviar dinero de inmediato",
+                    "Correct": false
+                },
+                {
+                    "Text": "No hacer nada",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Estás leyendo el periódico en línea, pero las letras son demasiado pequeñas. ¿Qué haces?",
+            "Explanation": "Si las letras son demasiado pequeñas cuando lees el periódico en línea, puedes ajustar el tamaño de la fuente en la configuración del sitio web. La mayoría de los sitios web te permiten aumentar o disminuir el tamaño de la fuente para que la lectura sea más cómoda. De esta manera, puedes seguir leyendo sin dificultades.",
+            "Image": "U4_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Ajustar el tamaño de la fuente en la configuración del sitio web",
+                    "Correct": true
+                },
+                {
+                    "Text": "Ignorar el problema y seguir leyendo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Cerrar el sitio web y buscar un periódico impreso",
+                    "Correct": false
+                },
+                {
+                    "Text": "Comprar una nueva computadora con una pantalla más grande",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "¿Cuál es el mejor método de pago al reservar en línea?",
+            "Explanation": "",
+            "Image": "U4_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "PayPal o tarjeta de crédito",
+                    "Correct": true
+                },
+                {
+                    "Text": "Pago contra reembolso",
+                    "Correct": false
+                },
+                {
+                    "Text": "Transferencia bancaria directa",
+                    "Correct": false
+                },
+                {
+                    "Text": "No pagas",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "¿Por qué es importante crear contraseñas seguras para las cuentas en línea?",
+            "Explanation": "Crear contraseñas seguras para las cuentas en línea es esencial para proteger la información personal y evitar que personas no autorizadas accedan a datos sensibles para proteger la privacidad y la seguridad.",
+            "Image": "U4_5",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Para proteger tus cuentas contra accesos no autorizados",
+                    "Correct": true
+                },
+                {
+                    "Text": "Para impresionar a tus amigos con tu destreza técnica",
+                    "Correct": false
+                },
+                {
+                    "Text": "Para que te resulte más fácil recordar tus datos de inicio de sesión",
+                    "Correct": false
+                },
+                {
+                    "Text": "Para obtener descuentos especiales en servicios electrónicos",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Las actividades de ocio en línea pueden traer entretenimiento directamente a tu puerta.",
+            "Explanation": "",
+            "Image": "U4_6",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Es seguro hacer clic en enlaces en correos electrónicos que prometen grandes premios o ganancias de lotería.",
+            "Explanation": "Hacer clic en enlaces en correos electrónicos que prometen grandes premios o ganancias de lotería puede ser arriesgado. Estos correos electrónicos pueden ser estafas destinadas a robar información personal o propagar virus dañinos.",
+            "Image": "U4_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Los juegos en línea son solo para niños.",
+            "Explanation": "Hay una amplia variedad de juegos en línea hechos para diferentes preferencias y habilidades. Participar en juegos en línea puede ofrecer numerosos beneficios, como mejorar habilidades cognitivas, promover la interacción social a través de juegos multijugador, reducir el estrés y proporcionar una forma divertida de mantenerse mentalmente activo. Los juegos en línea pueden ser una experiencia divertida y enriquecedora. ¡Te animamos a explorar el mundo digital sin miedo ni vacilación!",
+            "Image": "U4_8",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Airbnb es solo para alojamiento.",
+            "Explanation": "En Airbnb puedes encontrar una variedad de actividades para hacer en tu ciudad o mientras viajas. Es una excelente manera de conocer una ciudad como un local.",
+            "Image": "U4_9",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Las opiniones de los clientes en plataformas de reserva pueden darte una idea de la calidad de un hotel.",
+            "Explanation": "",
+            "Image": "U4_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "Questions": [
+        {
+            "Question": "Recibes una multa por una infracción de tráfico. ¿Cómo puedes pagarla fácilmente?",
+            "Explanation": "Representa servicios gubernamentales digitales que permiten a los ciudadanos pagar multas fácilmente de forma remota en lugar de viajar a una oficina física. Proporcionan opciones más rápidas y eficientes en comparación con el proceso tradicional en persona.",
+            "Image": "U3_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Paga la multa de manera conveniente y segura a través del portal en línea del gobierno, escanea el código QR en la multa y completa el pago",
+                    "Correct": true
+                },
+                {
+                    "Text": "Visita el ayuntamiento equipado para procesar multas de tráfico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ve lo más rápido posible a la oficina de correos para hacer cola y pagar la multa",
+                    "Correct": false
+                },
+                {
+                    "Text": "La ignoras",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Quieres verificar el saldo de tu cuenta bancaria. Tú:",
+            "Explanation": "Aprovecha la tecnología bancaria digital para proporcionar fácil acceso a información de cuenta en tiempo real, en comparación con los métodos tradicionales en persona o postales",
+            "Image": "U3_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Lo verificas en la aplicación bancaria en tu teléfono inteligente y, si tienes una laptop, en tu navegador",
+                    "Correct": true
+                },
+                {
+                    "Text": "Vas a tu banco local y obtienes un estado de cuenta de saldo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Esperas a que tu banco te envíe el estado de cuenta de saldo trimestralmente",
+                    "Correct": false
+                },
+                {
+                    "Text": "No necesitas verificarlo ya que solo usas efectivo",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Pediste dinero prestado a un amigo. ¿Cuál es la forma más conveniente de devolver el dinero?",
+            "Explanation": "Las billeteras digitales como PayPal permiten la transferencia instantánea de fondos directamente entre partes. Esto proporciona una forma rápida y fácil de devolver el dinero adeudado a alguien de forma remota, sin necesidad de retirar efectivo o usar opciones más lentas como cheques o transferencias bancarias. Los pagos digitales son convenientes e inmediatos.",
+            "Image": "U3_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Transfiere el dinero usando una billetera digital (por ejemplo, PayPal)",
+                    "Correct": true
+                },
+                {
+                    "Text": "Escribe un cheque",
+                    "Correct": false
+                },
+                {
+                    "Text": "Retira dinero de un cajero automático",
+                    "Correct": false
+                },
+                {
+                    "Text": "Promete devolver el dinero la próxima vez que se vean",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Quieres pagar tus facturas de servicios públicos. ¿Cuál es la forma más rápida y fácil de hacerlo?",
+            "Explanation": "La mayoría de las empresas de servicios públicos ahora ofrecen opciones de pago de facturas en línea a través de su sitio web o mediante una aplicación móvil. Esto permite a los clientes pagar sus facturas de forma remota y segura, en solo unos pocos clics, sin necesidad de visitar una oficina física o una oficina de correos. Los pagos digitales son rápidos y convenientes.",
+            "Image": "U3_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Paga a través de una plataforma en línea segura o una aplicación móvil",
+                    "Correct": true
+                },
+                {
+                    "Text": "Haz cola en una oficina de correos cercana",
+                    "Correct": false
+                },
+                {
+                    "Text": "Te turnas con tus amigos para ir a la oficina de correos a pagar",
+                    "Correct": false
+                },
+                {
+                    "Text": "No pagas",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Estás en la caja en una tienda. Te das cuenta de que olvidaste tu billetera; entras en pánico hasta que te das cuenta...",
+            "Explanation": "Las billeteras móviles brindan la capacidad de pagar de manera segura con solo tu teléfono inteligente, sin necesidad de llevar una billetera física. Esto es muy conveniente en situaciones donde puedas haber olvidado tu billetera habitual.",
+            "Image": "U3_5",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Configuras una billetera digital en tu teléfono inteligente y puedes pagar usando NFC",
+                    "Correct": true
+                },
+                {
+                    "Text": "Le pides dinero a otros clientes y les prometes devolverles el dinero",
+                    "Correct": false
+                },
+                {
+                    "Text": "Es solo un sueño",
+                    "Correct": false
+                },
+                {
+                    "Text": "La tienda te permitirá pagar los artículos durante tu próxima visita",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "No es seguro pagar digitalmente.",
+            "Explanation": "Los pagos digitales conllevan algunos riesgos de hacking/fraude, pero pueden ser muy seguros si los usuarios toman las precauciones de seguridad adecuadas y siguen buenas prácticas. La educación es clave para transacciones digitales seguras.",
+            "Image": "U3_6",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Si conoces los dos y no, es muy seguro",
+                    "Correct": true
+                },
+                {
+                    "Text": "Cierto",
+                    "Correct": false
+                },
+                {
+                    "Text": "Falso",
+                    "Correct": false
+                },
+                {
+                    "Text": "No lo sé",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Si quiero pagar por un servicio, simplemente siempre es mejor pagar en persona.",
+            "Explanation": "Los pagos digitales son generalmente superiores para servicios modernos, pero puede haber algunas excepciones donde el pago en persona pueda ser necesario o preferido según el contexto. Pero en general, el pago digital ofrece muchos beneficios.",
+            "Image": "U3_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Depende del escenario, pero pagar digitalmente es casi siempre más conveniente, igual de seguro y te ahorra mucho tiempo",
+                    "Correct": true
+                },
+                {
+                    "Text": "Cierto",
+                    "Correct": false
+                },
+                {
+                    "Text": "Falso",
+                    "Correct": false
+                },
+                {
+                    "Text": "No lo sé",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Configurar una billetera digital en un teléfono inteligente (Google Pay, Apple Pay, etc.) es...",
+            "Explanation": "Configurar una billetera digital en un teléfono inteligente, como Google Pay o Apple Pay, se vuelve sencillo y sin complicaciones cuando tienes acceso a instrucciones claras y simples. Estas aplicaciones de billetera digital están diseñadas con interfaces amigables para el usuario y guías paso a paso, lo que facilita el proceso de configuración para los usuarios que siguen las instrucciones proporcionadas.",
+            "Image": "U3_8",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Fácil con las instrucciones adecuadas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Muy complicado",
+                    "Correct": false
+                },
+                {
+                    "Text": "No tengo idea",
+                    "Correct": false
+                },
+                {
+                    "Text": "Innecesario",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Poder utilizar métodos de pago electrónico como billeteras digitales o NFC es...",
+            "Explanation": "Poder utilizar métodos de pago electrónico como billeteras digitales o NFC (Near Field Communication) ofrece ventajas significativas.",
+            "Image": "U3_9",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Esencial para muchos aspectos de la vida diaria y muy conveniente",
+                    "Correct": true
+                },
+                {
+                    "Text": "No es importante",
+                    "Correct": false
+                },
+                {
+                    "Text": "No es útil cuando estás en el supermercado y no quieres llevar contigo tu billetera física",
+                    "Correct": false
+                },
+                {
+                    "Text": "No es útil cuando olvidas efectivo en casa",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Necesitas pagar tu impuesto sobre la renta. ¿Qué método de pago permite la experiencia de pago más fluida?",
+            "Explanation": "Llenar tu declaración de impuestos en línea reduce el papeleo, ahorra tiempo y garantiza la precisión. Elimina la necesidad de visitas físicas, reduce el riesgo de errores y a menudo resulta en un procesamiento más rápido de tu pago, lo que lo convierte en el método más fluido para pagar impuestos sobre la renta.",
+            "Image": "U3_10",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Envía tu declaración de impuestos en línea y paga electrónicamente usando una opción de pago electrónico segura",
+                    "Correct": true
+                },
+                {
+                    "Text": "Visita tu oficina local de impuestos designada para pagos de impuestos sobre la renta",
+                    "Correct": false
+                },
+                {
+                    "Text": "Envía un cheque o giro postal junto con tu declaración de impuestos a la oficina de impuestos",
+                    "Correct": false
+                },
+                {
+                    "Text": "Supones que no necesitas presentar una declaración de impuestos sobre la renta debido a bajos ingresos",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

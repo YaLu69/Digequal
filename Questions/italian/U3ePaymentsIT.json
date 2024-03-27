@@ -1,0 +1,254 @@
+{
+    "Questions": [
+        {
+            "Question": "Ricevi una multa per una violazione del codice della strada. Come puoi effettuare facilmente il pagamento?",
+            "Explanation": "Rappresenta servizi digitali governativi che consentono ai cittadini di pagare facilmente le multe a distanza invece di recarsi presso un ufficio fisico. Forniscono opzioni più veloci e efficienti rispetto al tradizionale processo di persona.",
+            "Image": "U3_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Paga la multa comodamente e in sicurezza tramite il portale online del governo, scannerizza il codice QR sulla multa e completa il pagamento",
+                    "Correct": true
+                },
+                {
+                    "Text": "Visita il municipio attrezzato per elaborare multe stradali",
+                    "Correct": false
+                },
+                {
+                    "Text": "Vai il più velocemente possibile all'ufficio postale per fare la coda e pagare la multa",
+                    "Correct": false
+                },
+                {
+                    "Text": "La ignorate",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Vuoi verificare il saldo del tuo conto bancario. Tu:",
+            "Explanation": "Sfrutta la tecnologia bancaria digitale per fornire un facile accesso alle informazioni sul conto in tempo reale, rispetto ai metodi tradizionali di persona o postali",
+            "Image": "U3_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Lo controlli sull'app della banca sul tuo smartphone e, se hai un laptop, sul tuo browser",
+                    "Correct": true
+                },
+                {
+                    "Text": "Vai alla tua banca locale e ottieni un estratto conto",
+                    "Correct": false
+                },
+                {
+                    "Text": "Aspetti che la tua banca ti invii il saldo trimestrale",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non è necessario controllarlo poiché utilizzi solo contanti",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Hai preso in prestito denaro da un amico. Qual è il modo più conveniente per restituire il denaro?",
+            "Explanation": "Portafogli digitali come PayPal consentono il trasferimento istantaneo di fondi direttamente tra le parti. Questo fornisce un modo rapido e facile per ripagare il denaro dovuto a qualcuno a distanza, senza la necessità di prelevare contanti o utilizzare opzioni più lente come assegni o bonifici bancari. I pagamenti digitali sono comodi e immediati.",
+            "Image": "U3_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Trasferisci il denaro utilizzando un portafoglio digitale (ad esempio, PayPal)",
+                    "Correct": true
+                },
+                {
+                    "Text": "Scrivi un assegno",
+                    "Correct": false
+                },
+                {
+                    "Text": "Preleva denaro da un bancomat",
+                    "Correct": false
+                },
+                {
+                    "Text": "Prometti di restituire il denaro la prossima volta che vi vedrete",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Vuoi pagare le bollette. Qual è il modo più veloce e semplice per farlo?",
+            "Explanation": "La maggior parte delle aziende di servizi oggi offre opzioni di pagamento delle bollette online attraverso il proprio sito web o tramite un'app mobile. Questo consente ai clienti di pagare in modo sicuro le loro bollette a distanza, in pochi clic, senza la necessità di recarsi presso un ufficio fisico o un ufficio postale. I pagamenti digitali sono veloci e convenienti.",
+            "Image": "U3_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Paga attraverso una piattaforma online sicura o un'app mobile",
+                    "Correct": true
+                },
+                {
+                    "Text": "Fai la coda in un ufficio postale nelle vicinanze",
+                    "Correct": false
+                },
+                {
+                    "Text": "Vi avvicendate con i tuoi amici per andare all'ufficio postale a pagare",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non paghi",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sei alla cassa in un negozio. Ti accorgi di aver dimenticato il portafoglio; entri nel panico finché non ti rendi conto…",
+            "Explanation": "I portafogli digitali consentono di pagare in modo sicuro solo con il tuo smartphone, senza dover portare con te un portafoglio fisico. Questo è molto conveniente in situazioni in cui potresti aver dimenticato il portafoglio regolare.",
+            "Image": "U3_5",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Configuri un portafoglio digitale sul tuo smartphone e puoi pagare utilizzando il NFC",
+                    "Correct": true
+                },
+                {
+                    "Text": "Chiedi soldi agli altri clienti e prometti loro di restituire",
+                    "Correct": false
+                },
+                {
+                    "Text": "È solo un sogno",
+                    "Correct": false
+                },
+                {
+                    "Text": "Il negozio ti permetterà di pagare gli articoli durante la tua prossima visita",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Non è sicuro pagare digitalmente.",
+            "Explanation": "I pagamenti digitali comportano alcuni rischi di hacking/frode ma possono essere molto sicuri se gli utenti adottano le giuste precauzioni di sicurezza e seguono buone pratiche. L'istruzione è fondamentale per transazioni digitali sicure.",
+            "Image": "U3_6",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Se conosci il da fare e il da non fare, è molto sicuro",
+                    "Correct": true
+                },
+                {
+                    "Text": "Vero",
+                    "Correct": false
+                },
+                {
+                    "Text": "Falso",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non lo so",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Se voglio pagare un servizio, è semplicemente sempre meglio pagare di persona.",
+            "Explanation": "I pagamenti digitali sono generalmente superiori per i servizi moderni, ma potrebbero esserci alcune eccezioni in cui il pagamento di persona potrebbe essere richiesto o preferito a seconda del contesto. Ma in generale, il pagamento digitale offre molti vantaggi.",
+            "Image": "U3_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Dipende dallo scenario, ma pagare digitalmente è quasi sempre più conveniente, altrettanto sicuro e ti fa risparmiare molto tempo",
+                    "Correct": true
+                },
+                {
+                    "Text": "Vero",
+                    "Correct": false
+                },
+                {
+                    "Text": "Falso",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non lo so",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Impostare il portafoglio digitale di uno smartphone (Google Pay, Apple Pay, ecc.) è…",
+            "Explanation": "Configurare il portafoglio digitale di uno smartphone, come Google Pay o Apple Pay, diventa semplice e senza problemi quando si ha accesso a istruzioni chiare e semplici. Queste app di portafoglio digitale sono progettate con interfacce user-friendly e guide passo-passo, rendendo il processo di configurazione facile per gli utenti che seguono le istruzioni fornite.",
+            "Image": "U3_8",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Facile con le giuste istruzioni",
+                    "Correct": true
+                },
+                {
+                    "Text": "Molto complicato",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non ne ho idea",
+                    "Correct": false
+                },
+                {
+                    "Text": "Inutile",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Essere in grado di utilizzare metodi di pagamento elettronico come portafogli digitali o NFC è…",
+            "Explanation": "Essere in grado di utilizzare metodi di pagamento elettronico come portafogli digitali o NFC (Near Field Communication) offre significativi vantaggi.",
+            "Image": "U3_9",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Essenziale per molti aspetti della vita quotidiana e molto conveniente",
+                    "Correct": true
+                },
+                {
+                    "Text": "Non importante",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non utile quando sei al supermercato e non vuoi portare con te il portafoglio fisico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non utile quando dimentichi i contanti a casa",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Devi pagare le tasse sul reddito. Qual è il metodo di pagamento che consente l'esperienza di pagamento più senza soluzione di continuità?",
+            "Explanation": "Compilare la tua dichiarazione dei redditi online riduce la burocrazia, risparmia tempo e garantisce precisione. Elimina la necessità di visite fisiche, riduce il rischio di errori e spesso porta a un'elaborazione più veloce del pagamento, rendendolo il metodo più senza soluzione di continuità per pagare le tasse sul reddito.",
+            "Image": "U3_10",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Compila la tua dichiarazione dei redditi online e paga elettronicamente utilizzando un'opzione di pagamento elettronico sicuro",
+                    "Correct": true
+                },
+                {
+                    "Text": "Visita il tuo ufficio fiscale locale designato per i pagamenti delle imposte sul reddito",
+                    "Correct": false
+                },
+                {
+                    "Text": "Spedisci un assegno o un vaglia postale insieme alla tua dichiarazione dei redditi all'ufficio fiscale",
+                    "Correct": false
+                },
+                {
+                    "Text": "Supponi che non sia necessario presentare una dichiarazione dei redditi a causa di un basso reddito",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

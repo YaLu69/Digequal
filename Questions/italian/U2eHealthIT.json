@@ -1,0 +1,152 @@
+{
+    "Questions": [
+        {
+            "Question": "L'e-health ci consente di prenotare facilmente gli appuntamenti con il medico attraverso piattaforme online.",
+            "Explanation": "Le piattaforme online consentono agli utenti di prenotare gli appuntamenti con il medico risparmiando tempo e denaro se non hanno il tempo di visitare personalmente i loro medici.",
+            "Image": "U2_1",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Le persone possono risparmiare tempo ed eliminare le interazioni fisiche con i medici quando utilizzano piattaforme online.",
+            "Explanation": "L'utilizzo delle piattaforme online per l'assistenza sanitaria consente alle persone di risparmiare tempo e ridurre la necessità di visite fisiche faccia a faccia, offrendo un accesso virtuale comodo ai consigli medici e ai servizi.",
+            "Image": "U2_2",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Quali delle seguenti opzioni sono considerate una minaccia/sfida dell'e-health.",
+            "Explanation": "La sicurezza e la privacy sono le principali sfide che l'e-health deve affrontare nel corso degli anni a causa del fatto che le informazioni personali delle persone possono essere facilmente hackerate o rubate.",
+            "Image": "U2_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Sicurezza e privacy",
+                    "Correct": true
+                },
+                {
+                    "Text": "Costi bassi",
+                    "Correct": false
+                },
+                {
+                    "Text": "mHealth",
+                    "Correct": false
+                },
+                {
+                    "Text": "Tutte le risposte sono corrette",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "L'e-health ci dà accesso ai nostri fascicoli medici online.",
+            "Explanation": "L'e-health, anche conosciuta come sanità elettronica, indica che le persone, tra gli altri benefici, sono in grado di accedere alle loro informazioni mediche non solo dai medici ma anche da diversi dispositivi e servizi.",
+            "Image": "U2_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "I servizi di telemedicina ci permettono di consultare i professionisti sanitari in qualsiasi momento e ovunque.",
+            "Explanation": "Ricevere consulenze in telemedicina indica che i pazienti possono incontrare professionisti sanitari solo utilizzando i propri dispositivi elettronici, indipendentemente dal momento o dal luogo.",
+            "Image": "U2_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Esempi di servizi e-health:",
+            "Explanation": "I servizi e-health includono solo applicazioni, giochi e tecnologia indossabile. Le altre opzioni sono mescolate con alcuni tipi di e-health, non servizi.",
+            "Image": "U2_6",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "App, Giochi seri, Tecnologia indossabile",
+                    "Correct": true
+                },
+                {
+                    "Text": "HER, E-Prescribing, Telehealth",
+                    "Correct": false
+                },
+                {
+                    "Text": "CHI, M-health, Sensori, Dispositivi indossabili",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nessuna delle risposte è corretta",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Le app/e-wearable/strumenti e-health ci aiutano a monitorare:",
+            "Explanation": "Gli strumenti e-health sono progettati in modo da poter monitorare problemi correlati alla salute, come la medicazione, i livelli di attività, i modelli di sonno, ecc., per supportare la gestione e il monitoraggio della propria salute.",
+            "Image": "U2_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Tutte le risposte sono corrette",
+                    "Correct": true
+                },
+                {
+                    "Text": "Medicazione",
+                    "Correct": false
+                },
+                {
+                    "Text": "Modelli di sonno",
+                    "Correct": false
+                },
+                {
+                    "Text": "Livelli di attività",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "La competenza in e-health:",
+            "Explanation": "La competenza in e-health non solo protegge le persone dai danni/informazioni errate online e previene problemi di salute, ma garantisce anche che le persone possano valutare criticamente le informazioni online e utilizzare gli strumenti online in modo efficace per gestire la propria salute.",
+            "Image": "U2_8",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Tutte le risposte sono corrette",
+                    "Correct": true
+                },
+                {
+                    "Text": "Proteggere la salute delle persone e migliorare la gestione dei problemi di salute",
+                    "Correct": false
+                },
+                {
+                    "Text": "Protegge le persone dai danni e li abilita a partecipare a decisioni informate relative alla salute",
+                    "Correct": false
+                },
+                {
+                    "Text": "Aiuta le persone a prevenire problemi di salute",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Possiamo comunicare in modo sicuro con i medici tramite sistemi di messaggistica e-health.",
+            "Explanation": "Anche se la sicurezza è una sfida per l'e-health, i sistemi di messaggistica seguono spesso passaggi cruciali per garantire la sicurezza dei dati dei pazienti, come l'autenticazione dell'utente, le reti sicure, la comunicazione criptata, il monitoraggio delle attività sospette e altro ancora.",
+            "Image": "U2_9",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Una errata interpretazione delle informazioni sanitarie online potrebbe portarci a decisioni sanitarie sbagliate.",
+            "Explanation": "Se interpretiamo male le informazioni sanitarie che troviamo online, potremmo prendere decisioni sbagliate per la nostra salute. Le fonti online potrebbero non essere accurate o considerare le nostre esigenze personali, portandoci a prendere decisioni basate su informazioni errate che a loro volta potrebbero danneggiare la nostra salute anziché migliorarla.",
+            "Image": "U2_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "Questions": [
+        {
+            "Question": "É possível sofrer roubo de identidade ao reservar uma viagem em uma agência de viagens?",
+            "Explanation": "O roubo de identidade pode ocorrer se alguém ganhar acesso às suas informações pessoais, como seu nome, endereço ou detalhes do cartão de crédito, enquanto processa sua reserva. É importante ter cuidado e proteger suas informações pessoais, quer você reserve online ou pessoalmente.",
+            "Image": "U4_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Sim",
+                    "Correct": true
+                },
+                {
+                    "Text": "Não",
+                    "Correct": false
+                },
+                {
+                    "Text": "Apenas se pagar em dinheiro",
+                    "Correct": false
+                },
+                {
+                    "Text": "Apenas se reservar por telefone",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Um amigo ou parente lhe envia uma mensagem de um número desconhecido pedindo ajuda:",
+            "Explanation": "Se alguém que você conhece lhe envia uma mensagem de um número desconhecido pedindo ajuda, você deve verificar a identidade do chamador antes de tomar qualquer providência. Você pode ligar para o chamador em um número conhecido ou fazer a ele perguntas específicas que apenas eles sabem para ter certeza de que realmente são eles.",
+            "Image": "U4_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Tente verificar a identidade",
+                    "Correct": true
+                },
+                {
+                    "Text": "Peça para ver o perfil deles nas redes sociais",
+                    "Correct": false
+                },
+                {
+                    "Text": "Envie dinheiro imediatamente",
+                    "Correct": false
+                },
+                {
+                    "Text": "Você não faz nada",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Você está lendo o jornal online, mas as letras estão muito pequenas. O que você faz?",
+            "Explanation": "Se as letras estiverem muito pequenas quando você estiver lendo o jornal online, você pode ajustar o tamanho da fonte nas configurações do site. A maioria dos sites permite aumentar ou diminuir o tamanho da fonte para tornar a leitura mais confortável. Dessa forma, você pode continuar lendo sem dificuldade.",
+            "Image": "U4_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Ajuste o tamanho da fonte nas configurações do site",
+                    "Correct": true
+                },
+                {
+                    "Text": "Ignore o problema e continue lendo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Feche o site e procure um jornal impresso",
+                    "Correct": false
+                },
+                {
+                    "Text": "Compre um novo computador com uma tela maior",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Qual é o melhor método de pagamento ao reservar online?",
+            "Explanation": "",
+            "Image": "U4_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "PayPal ou cartão de crédito",
+                    "Correct": true
+                },
+                {
+                    "Text": "Dinheiro na entrega",
+                    "Correct": false
+                },
+                {
+                    "Text": "Transferência bancária direta",
+                    "Correct": false
+                },
+                {
+                    "Text": "Você não paga",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Por que é importante criar senhas fortes para contas online?",
+            "Explanation": "Criar senhas fortes para contas online é essencial para proteger informações pessoais e evitar que pessoas não autorizadas tenham acesso a dados sensíveis para proteger a privacidade e a segurança.",
+            "Image": "U4_5",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Para proteger suas contas contra acesso não autorizado",
+                    "Correct": true
+                },
+                {
+                    "Text": "Para impressionar seus amigos com seu conhecimento técnico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Para facilitar sua memorização de detalhes de login",
+                    "Correct": false
+                },
+                {
+                    "Text": "Para obter descontos especiais em serviços eletrônicos",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "As atividades de lazer online podem trazer entretenimento diretamente para sua porta.",
+            "Explanation": "",
+            "Image": "U4_6",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "É seguro clicar em links em e-mails que prometem grandes prêmios ou ganhos de loteria.",
+            "Explanation": "Clicar em links em e-mails que prometem grandes prêmios ou ganhos de loteria pode ser arriscado. Esses e-mails podem ser golpes destinados a roubar informações pessoais ou espalhar vírus prejudiciais.",
+            "Image": "U4_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Os jogos online são apenas para crianças.",
+            "Explanation": "Existe uma ampla variedade de jogos online feitos para diferentes preferências e habilidades. Participar de jogos online pode oferecer numerosos benefícios, como melhorar habilidades cognitivas, promover interação social por meio de jogos multijogador, reduzir o estresse e fornecer uma maneira divertida de permanecer mentalmente ativo. Os jogos online podem ser uma experiência agradável e enriquecedora. Encorajamos você a explorar o mundo digital sem medo ou hesitação!",
+            "Image": "U4_8",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "O Airbnb é apenas para acomodações.",
+            "Explanation": "No Airbnb você pode encontrar uma variedade de atividades para fazer em sua cidade ou enquanto viaja. É uma ótima maneira de conhecer uma cidade como um local.",
+            "Image": "U4_9",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "As avaliações de clientes em plataformas de reserva podem dar uma ideia da qualidade de um hotel.",
+            "Explanation": "",
+            "Image": "U4_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

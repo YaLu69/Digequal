@@ -1,0 +1,220 @@
+{
+    "Questions": [
+        {
+            "Question": "¿Qué dispositivos son obligatorios para la educación en línea?",
+            "Explanation": "",
+            "Image": "U6_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Teléfono inteligente o computadora o tableta",
+                    "Correct": true
+                },
+                {
+                    "Text": "Libro, bolígrafo, goma de borrar",
+                    "Correct": false
+                },
+                {
+                    "Text": "Bicicleta, silla, mesa",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ninguna de las respuestas es correcta",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "¿Cómo manejar las dificultades técnicas durante la sección en línea?",
+            "Explanation": "",
+            "Image": "U6_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Reiniciar el dispositivo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Contactar al soporte técnico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Verificar la conexión a Internet",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Para encontrar cursos en línea, puedes:",
+            "Explanation": "",
+            "Image": "U6_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Navegar por la web",
+                    "Correct": false
+                },
+                {
+                    "Text": "Preguntar a un amigo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Suscribirse al boletín informativo",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "En un curso híbrido, los estudiantes asisten a clases \"en persona\" y también tienen actividad en línea.",
+            "Explanation": "",
+            "Image": "U6_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Fomentar un sentido de comunidad y crear actividades colaborativas en línea son estrategias para prevenir el aislamiento.",
+            "Explanation": "",
+            "Image": "U6_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "La educación digital solo está disponible para comunidades urbanas.",
+            "Explanation": "",
+            "Image": "U6_6",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "No, uno puede aprender cosas digitales siempre que haya Internet",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sí, internet solo está disponible en áreas urbanas",
+                    "Correct": false
+                },
+                {
+                    "Text": "Cierto",
+                    "Correct": false
+                },
+                {
+                    "Text": "Quizás",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "¿Qué sucede si no me gusta el curso digital por el que estoy dispuesto a pagar?",
+            "Explanation": "",
+            "Image": "U6_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "La mayoría de los cursos en línea tienen una prueba gratuita disponible que te permite entender si se adapta a tus necesidades",
+                    "Correct": true
+                },
+                {
+                    "Text": "Pierdes tu dinero",
+                    "Correct": false
+                },
+                {
+                    "Text": "No confío en los cursos en línea",
+                    "Correct": false
+                },
+                {
+                    "Text": "Seguramente, obtendrán un porcentaje",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Hay cursos en línea que me ayudarán en mi carrera.",
+            "Explanation": "",
+            "Image": "U6_8",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Brecha digital",
+                    "Correct": false
+                },
+                {
+                    "Text": "Preocupaciones de privacidad",
+                    "Correct": false
+                },
+                {
+                    "Text": "Niveles bajos de adopción",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "La e-participación utiliza la tecnología para facilitar la participación activa de los ciudadanos.",
+            "Explanation": "",
+            "Image": "U6_9",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Sí, la educación en línea puede proporcionar certificados de finalización de cursos, microcredenciales, certificaciones profesionales y títulos o diplomas en línea, de instituciones acreditadas",
+                    "Correct": true
+                },
+                {
+                    "Text": "No, no podemos creer en todo lo que leemos en internet",
+                    "Correct": false
+                },
+                {
+                    "Text": "La educación en línea no es tan buena como la presencial",
+                    "Correct": false
+                },
+                {
+                    "Text": "La educación en línea no es una buena idea para la adquisición de nuevas competencias",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "¿Cuándo podemos aprovechar el tiempo muerto para aprender?",
+            "Explanation": "",
+            "Image": "U6_10",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Haciendo ejercicio",
+                    "Correct": false
+                },
+                {
+                    "Text": "Esperando citas",
+                    "Correct": false
+                },
+                {
+                    "Text": "Comutando",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

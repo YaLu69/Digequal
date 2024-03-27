@@ -1,0 +1,220 @@
+{
+    "Questions": [
+        {
+            "Question": "Quali dispositivi sono obbligatori per l'istruzione online? ",
+            "Explanation": "",
+            "Image": "U6_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Smartphone o pc o tablet",
+                    "Correct": true
+                },
+                {
+                    "Text": "Libro, penna, gomma",
+                    "Correct": false
+                },
+                {
+                    "Text": "Bicicletta, sedia, tavolo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nessuna delle risposte è corretta",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Come gestire le difficoltà tecniche durante la sessione online?",
+            "Explanation": "",
+            "Image": "U6_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Tutte le risposte sono corrette",
+                    "Correct": true
+                },
+                {
+                    "Text": "Riavviare il dispositivo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Contattare il supporto tecnico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Verificare la connessione internet",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Per trovare corsi online puoi:",
+            "Explanation": "",
+            "Image": "U6_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Tutte le risposte sono corrette",
+                    "Correct": true
+                },
+                {
+                    "Text": "Navigare sul web",
+                    "Correct": false
+                },
+                {
+                    "Text": "Chiedere a un amico",
+                    "Correct": false
+                },
+                {
+                    "Text": "Iscriversi alla newsletter",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "In un corso ibrido, gli studenti partecipano a lezioni \"in presenza\" e hanno anche attività online.",
+            "Explanation": "",
+            "Image": "U6_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Promuovere un senso di comunità e creare attività online collaborative sono strategie per prevenire l'isolamento.",
+            "Explanation": "",
+            "Image": "U6_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "L'istruzione digitale è disponibile solo per le comunità urbane.",
+            "Explanation": "",
+            "Image": "U6_6",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "No, si può imparare roba digitale purché ci sia Internet",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sì, internet è disponibile solo nelle aree urbane",
+                    "Correct": false
+                },
+                {
+                    "Text": "Vero",
+                    "Correct": false
+                },
+                {
+                    "Text": "Forse",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Cosa succede se non mi piace il corso digitale che sono disposto a pagare?",
+            "Explanation": "",
+            "Image": "U6_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "La maggior parte dei corsi online ha una prova gratuita disponibile che ti permette di capire se soddisfa le tue esigenze",
+                    "Correct": true
+                },
+                {
+                    "Text": "Perdi i tuoi soldi",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non mi fido dei corsi online",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sicuramente, otterranno una percentuale",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Ci sono corsi online che mi aiuteranno nella mia carriera.",
+            "Explanation": "",
+            "Image": "U6_8",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Tutte le risposte sono corrette",
+                    "Correct": true
+                },
+                {
+                    "Text": "Divario digitale",
+                    "Correct": false
+                },
+                {
+                    "Text": "Preoccupazioni sulla privacy",
+                    "Correct": false
+                },
+                {
+                    "Text": "Bassi livelli di adozione",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "L'e-partecipazione utilizza la tecnologia per facilitare la partecipazione attiva dei cittadini.",
+            "Explanation": "",
+            "Image": "U6_9",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Sì, l'istruzione online può fornire certificati di completamento del corso, micro credenziali, certificazioni professionali e lauree o diplomi online, da istituzioni accreditate",
+                    "Correct": true
+                },
+                {
+                    "Text": "No, non possiamo credere a tutto ciò che leggiamo su internet",
+                    "Correct": false
+                },
+                {
+                    "Text": "L'istruzione online non è così buona come quella offline",
+                    "Correct": false
+                },
+                {
+                    "Text": "L'istruzione online non è una buona idea per l'acquisizione di nuove competenze",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Quando possiamo utilizzare il tempo morto per imparare?",
+            "Explanation": "",
+            "Image": "U6_10",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Tutte le risposte sono corrette",
+                    "Correct": true
+                },
+                {
+                    "Text": "Fare esercizio",
+                    "Correct": false
+                },
+                {
+                    "Text": "Aspettare gli appuntamenti",
+                    "Correct": false
+                },
+                {
+                    "Text": "Commutare",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

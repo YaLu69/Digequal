@@ -1,0 +1,203 @@
+{
+    "Questions": [
+        {
+            "Question": "Sie möchten mit dem Standesamt kommunizieren. Sie senden:",
+            "Explanation": "Das Senden einer E-Mail ist eine weit verbreitete und effiziente Methode der Kommunikation für formelle Anfragen. Es ermöglicht die Dokumentation, schnelle Zustellung und einfache Verfolgung des Gesprächs.",
+            "Image": "U1_1",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Elektronische Post",
+                    "Correct": true
+                },
+                {
+                    "Text": "SMS",
+                    "Correct": false
+                },
+                {
+                    "Text": "Papierpost",
+                    "Correct": false
+                },
+                {
+                    "Text": "Whatsapp-Nachricht",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Was ist der schnellste Weg, Rechnungen zu bezahlen?",
+            "Explanation": "Die Verwendung eines QR-Scanners ermöglicht schnelle und effiziente Zahlungen von Rechnungen. Mit einem QR-Code können Sie den Code mit Ihrem Smartphone oder anderen Geräten scannen, und die Zahlungsinformationen werden automatisch ausgefüllt, was den Transaktionsprozess schnell und bequem macht. Diese Methode eliminiert die Notwendigkeit manueller Dateneingabe und reduziert das Risiko von Fehlern, was zu einem schnellen Zahlungsprozess führt.",
+            "Image": "U1_2",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "QR-Scanner",
+                    "Correct": true
+                },
+                {
+                    "Text": "Leute stehen Schlange",
+                    "Correct": false
+                },
+                {
+                    "Text": "Geldüberweisung",
+                    "Correct": false
+                },
+                {
+                    "Text": "Hände, die sich Geld geben",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie möchten Ihre Steuererklärung machen…",
+            "Explanation": "Die Verwendung des Regierungsportals zur Abgabe Ihrer Steuererklärung ist die effizienteste und zuverlässigste Option. Regierungsportale sind speziell darauf ausgelegt, den Prozess der Steuererklärung zu vereinfachen, indem sie benutzerfreundliche Oberflächen, schrittweise Anleitungen und sichere Übermittlungsmethoden bieten. Diese Option spart Zeit, gewährleistet Genauigkeit und ermöglicht eine bequeme Online-Einreichung von Steuererklärungen.",
+            "Image": "U1_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Verwenden Sie das Regierungsportal und sparen Sie Zeit",
+                    "Correct": true
+                },
+                {
+                    "Text": "Fragen Sie einen Freund um Hilfe",
+                    "Correct": false
+                },
+                {
+                    "Text": "Gehen Sie zur Bank",
+                    "Correct": false
+                },
+                {
+                    "Text": "Es ist nicht erforderlich",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie erhalten ein Dokument zum Unterschreiben. Sie haben nicht viel Zeit.",
+            "Explanation": "Das Unterzeichnen des Dokuments digital ist die effizienteste und zeitsparendste Option in diesem Szenario. Digitale Signaturen, die unter Verwendung sicherer Verschlüsselungsmethoden erstellt werden, werden in vielen Ländern rechtlich anerkannt und sind für verschiedene offizielle Dokumente weit verbreitet akzeptiert. Diese Methode ermöglicht es Ihnen, das Dokument elektronisch zu unterzeichnen, ohne es drucken, scannen oder physisch bearbeiten zu müssen. Es ist eine schnelle, bequeme und gültige Möglichkeit, Dokumente zu bearbeiten, insbesondere wenn Sie wenig Zeit haben.",
+            "Image": "U1_4",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Sie unterschreiben es digital",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sie ignorieren es",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie drucken es aus, unterschreiben es, scannen es und senden es zurück",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie machen ein Foto Ihrer Unterschrift und kopieren sie",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Sie möchten überprüfen, ob Sie Ihre Kfz-Steuer bezahlt haben:",
+            "Explanation": "Viele Orte bieten Online-Services oder Apps an, mit denen Sie den Zahlungsstatus Ihrer Kfz-Steuer anhand Ihrer Identifikationsinformationen überprüfen können. Diese Methode ermöglicht eine schnelle und bequeme Überprüfung, ohne auf Papierquittungen angewiesen zu sein oder andere zu fragen. Es bietet auch eine zuverlässige und aktuelle Aufzeichnung Ihres Zahlungsstatus.",
+            "Image": "U1_5",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Sie können in einer bestimmten App mit Ihrer ID nachsehen",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sie fragen jemanden aus Ihrer Familie",
+                    "Correct": false
+                },
+                {
+                    "Text": "Es ist unmöglich: Sie vergessen nie",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie suchen den Papierbeleg",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Ist es immer notwendig, zum Rathaus zu gehen, um ein Zertifikat zu beantragen:",
+            "Explanation": "Es ist nicht immer notwendig, zum Rathaus zu gehen, um ein Zertifikat zu beantragen. Viele Zertifikate und Dokumente können online über Regierungswebsites oder -portale beantragt werden, ohne dass ein Besuch in einem physischen Büro erforderlich ist. Online-Services sind immer häufiger geworden und bieten Bequemlichkeit und Effizienz für verschiedene administrative Aufgaben, einschließlich Zertifikatsanträge.",
+            "Image": "U1_6",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Die heruntergeladenen Zertifikate sind weniger zuverlässig als die, die Sie von der Gemeinde erhalten",
+            "Explanation": "Die Zuverlässigkeit von Zertifikaten hängt von der Quelle und den Verfahren ab. Sowohl physische als auch digitale Zertifikate können zuverlässig sein, wenn sie von legitimen Behörden ausgestellt werden und Authentifizierungs- und Verschlüsselungsprotokolle befolgen. Verwenden Sie offizielle Quellen und sichere Websites oder Regierungsportale zum Herunterladen digitaler Zertifikate.",
+            "Image": "U1_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Die Nutzung von Online-Öffentlichen Diensten kann diese Situation vermeiden.",
+            "Explanation": "Die Nutzung von Online-Öffentlichen Diensten kann in der Tat dazu beitragen, bestimmte Situationen zu vermeiden. Online-Öffentliche Dienste bieten verschiedene Vorteile, einschließlich Bequemlichkeit, Effizienz und Zugänglichkeit. Durch die Verwendung von Online-Services können Personen lange Warteschlangen vermeiden, Zeit sparen, Papierkram reduzieren und Aufgaben bequem von zu Hause oder vom Büro aus erledigen. Darüber hinaus bieten Online-Services häufig Echtzeit-Updates und Benachrichtigungen, was die Kommunikation zwischen Bürgern und Regierungsbehörden verbessert.",
+            "Image": "U1_8",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Ich habe meine Karte zu Hause vergessen! Keine Sorge, ich kann bezahlen, weil mein Telefon…",
+            "Explanation": "Die NFC (Near Field Communication)-Technologie ermöglicht es Ihnen, kontaktlose Zahlungen mit Ihrem Smartphone durchzuführen, auch wenn Sie Ihre physische Karte nicht dabei haben. Indem Sie einfach Ihr Telefon auf ein kompatibles Zahlungsterminal tippen, können Sie eine Transaktion initiieren und Zahlungen ohne Ihre Karte durchführen.",
+            "Image": "U1_9",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "NFC",
+                    "Correct": true
+                },
+                {
+                    "Text": "Viel Geld",
+                    "Correct": false
+                },
+                {
+                    "Text": "Spezielle Werkzeuge",
+                    "Correct": false
+                },
+                {
+                    "Text": "WiFi",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Es ist ein geschäftiger Tag, und Sie möchten Zeit sparen, also...",
+            "Explanation": "Das Bereithalten Ihrer digitalen Identität kann Ihnen an einem geschäftigen Tag Zeit sparen. Viele Regierungsdienste und Behörden bieten Online-Portale an, über die Sie Informationen abrufen, Transaktionen durchführen und Anfragen lösen können, ohne physische Besuche durchführen zu müssen. Indem Sie Ihre digitale Identität und die erforderlichen Dokumente bereithalten, können Sie Online-Services effizient nutzen, Zeit sparen und sich den Ärger von Warteschlangen oder Warten in Kundenlinien ersparen.",
+            "Image": "U1_10",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Sie haben Ihre digitale Identität bereit",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sie stellen sich in einer Warteschlange beim Finanzamt an",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie suchen Ihren Enkel, um Ihnen zu helfen",
+                    "Correct": false
+                },
+                {
+                    "Text": "Sie rufen eine Kundenhotline an, um schneller zu sein",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

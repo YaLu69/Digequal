@@ -1,0 +1,203 @@
+{
+    "Questions": [
+        {
+            "Question": "You want to communicate with the registry office. You send:",
+            "Explanation": "Sending an email is a widely accepted and efficient method of communication for formal inquiries. It allows for documentation, quick delivery, and easy tracking of the conversation.",
+            "Image": "U1_1",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Electronic mail",
+                    "Correct": true
+                },
+                {
+                    "Text": "SMS",
+                    "Correct": false
+                },
+                {
+                    "Text": "Paper mail",
+                    "Correct": false
+                },
+                {
+                    "Text": "Whatsapp message",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Which is the fastest way to pay bills?",
+            "Explanation": "Using a QR scanner allows for quick and efficient bill payments. With a QR code, you can scan the code using your smartphone or other devices, and the payment information is automatically populated, making the transaction fast and convenient. This method eliminates the need for manual data entry and reduces the risk of errors, resulting in a speedy payment process.",
+            "Image": "U1_2",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "QR scanner",
+                    "Correct": true
+                },
+                {
+                    "Text": "People queueing",
+                    "Correct": false
+                },
+                {
+                    "Text": "Money Transfer",
+                    "Correct": false
+                },
+                {
+                    "Text": "Hands giving each other money",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "You want to make your tax declaration…",
+            "Explanation": "Using the government portal to make your tax declaration is the most efficient and reliable option. Government portals are specifically designed to streamline the tax declaration process, offering user-friendly interfaces, step-by-step guidance, and secure submission methods. This option saves time, ensures accuracy, and allows for convenient online filing of tax declarations.",
+            "Image": "U1_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Use the government portal and save time",
+                    "Correct": true
+                },
+                {
+                    "Text": "Ask for help to your friend",
+                    "Correct": false
+                },
+                {
+                    "Text": "Go to the bank",
+                    "Correct": false
+                },
+                {
+                    "Text": "It’s not needed",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "You receive a document to sign. You don’t have much time.",
+            "Explanation": "Signing the document digitally is the most efficient and time-saving option in this scenario. Digital signatures, which are created using secure encryption methods, are legally recognized in many countries and are widely accepted for various official documents. This method allows you to sign the document electronically without the need to print, scan, or physically handle the paperwork. It's a quick, convenient, and valid way to handle documents, especially when you are short on time.",
+            "Image": "U1_4",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "You sign it digitally",
+                    "Correct": true
+                },
+                {
+                    "Text": "You ignore it",
+                    "Correct": false
+                },
+                {
+                    "Text": "You print it, you sign it, you scan it and you send it back",
+                    "Correct": false
+                },
+                {
+                    "Text": "You take a picture of your signature and you copy-paste it",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "You want to check if you’ve paid your car tax:",
+            "Explanation": "Many places offer online services or apps where you can check your car tax payment status using your identification information. This method allows for quick and convenient verification without relying on paper receipts or asking others. It also provides a reliable and up-to-date record of your payment status.",
+            "Image": "U1_5",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "You can check on a specific app, using your ID",
+                    "Correct": true
+                },
+                {
+                    "Text": "You ask to someone of your family",
+                    "Correct": false
+                },
+                {
+                    "Text": "It’s impossible: you never forget",
+                    "Correct": false
+                },
+                {
+                    "Text": "You look for the paper receipt",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "It’s always necessary to go to the city Hall to apply for a certificate:",
+            "Explanation": "It is not always necessary to go to the city hall to apply for a certificate. Many certificates and documents can be applied for online, through government websites or portals, without the need to visit a physical office. Online services have become increasingly common, providing convenience and efficiency for various administrative tasks, including certificate applications.",
+            "Image": "U1_6",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "The downloaded certificates are less reliable than the ones you take from the municipality",
+            "Explanation": "Certificate reliability depends on source and procedures. Both physical and digital certificates can be reliable if issued by legitimate authorities and follow authentication and encryption protocols. Use official sources and secure websites or government portals to download digital certificates.",
+            "Image": "U1_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "The use of online public services can avoid this situation.",
+            "Explanation": "The use of online public services can indeed help avoid certain situations. Online public services offer various benefits, including convenience, efficiency, and accessibility. By using online services, individuals can avoid long queues, save time, reduce paperwork, and complete tasks from the comfort of their homes or offices. Additionally, online services often provide real-time updates and notifications, improving communication between citizens and government authorities.",
+            "Image": "U1_8",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "I left my card home! No worries, I can pay because my phone has...",
+            "Explanation": "NFC (Near Field Communication) technology allows you to make contactless payments using your smartphone, even if you don't have your physical card with you. By simply tapping your phone on a compatible payment terminal, you can initiate a transaction and make payments without the need for your card.",
+            "Image": "U1_9",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "NFC",
+                    "Correct": true
+                },
+                {
+                    "Text": "A lot of money",
+                    "Correct": false
+                },
+                {
+                    "Text": "Special tools",
+                    "Correct": false
+                },
+                {
+                    "Text": "WiFi",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "It is a busy day, and you want to save time, so...",
+            "Explanation": "Having your digital identity ready can save you time on a busy day. Many government services and agencies offer online portals where you can access information, complete transactions, and resolve inquiries without the need for physical visits. By having your digital identity and necessary documents ready, you can efficiently use online services, saving time and avoiding the hassle of queues or waiting on customer lines.",
+            "Image": "U1_10",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "You have your digital identity ready",
+                    "Correct": true
+                },
+                {
+                    "Text": "You make a queue to the tax agency",
+                    "Correct": false
+                },
+                {
+                    "Text": "You look for your grandchild to help you",
+                    "Correct": false
+                },
+                {
+                    "Text": "You call a customer line to be quicker",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "Questions": [
+        {
+            "Question": "Quieres comunicarte con la oficina de registro. Tú envías:",
+            "Explanation": "Enviar un correo electrónico es un método de comunicación ampliamente aceptado y eficiente para consultas formales. Permite la documentación, entrega rápida y seguimiento fácil de la conversación.",
+            "Image": "U1_1",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Correo electrónico",
+                    "Correct": true
+                },
+                {
+                    "Text": "SMS",
+                    "Correct": false
+                },
+                {
+                    "Text": "Correo en papel",
+                    "Correct": false
+                },
+                {
+                    "Text": "Mensaje de Whatsapp",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "¿Cuál es la forma más rápida de pagar facturas?",
+            "Explanation": "Usar un escáner QR permite pagos de facturas rápidos y eficientes. Con un código QR, puedes escanear el código usando tu teléfono inteligente u otros dispositivos, y la información de pago se completa automáticamente, haciendo que la transacción sea rápida y conveniente. Este método elimina la necesidad de entrada de datos manual y reduce el riesgo de errores, resultando en un proceso de pago rápido.",
+            "Image": "U1_2",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Escáner QR",
+                    "Correct": true
+                },
+                {
+                    "Text": "Gente haciendo cola",
+                    "Correct": false
+                },
+                {
+                    "Text": "Transferencia de dinero",
+                    "Correct": false
+                },
+                {
+                    "Text": "Manos dándose dinero",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Quieres hacer tu declaración de impuestos…",
+            "Explanation": "Usar el portal del gobierno para hacer tu declaración de impuestos es la opción más eficiente y confiable. Los portales gubernamentales están diseñados específicamente para agilizar el proceso de declaración de impuestos, ofreciendo interfaces fáciles de usar, orientación paso a paso y métodos de presentación seguros. Esta opción ahorra tiempo, asegura precisión y permite la presentación conveniente en línea de declaraciones de impuestos.",
+            "Image": "U1_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Usar el portal del gobierno y ahorrar tiempo",
+                    "Correct": true
+                },
+                {
+                    "Text": "Pedir ayuda a un amigo",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ir al banco",
+                    "Correct": false
+                },
+                {
+                    "Text": "No es necesario",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Recibes un documento para firmar. No tienes mucho tiempo.",
+            "Explanation": "Firmar el documento digitalmente es la opción más eficiente y que ahorra tiempo en este escenario. Las firmas digitales, que se crean utilizando métodos de cifrado seguros, son reconocidas legalmente en muchos países y son ampliamente aceptadas para varios documentos oficiales. Este método te permite firmar el documento electrónicamente sin necesidad de imprimir, escanear o manipular físicamente el papeleo. Es una forma rápida, conveniente y válida de manejar documentos, especialmente cuando tienes poco tiempo.",
+            "Image": "U1_4",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Lo firmas digitalmente",
+                    "Correct": true
+                },
+                {
+                    "Text": "Lo ignoras",
+                    "Correct": false
+                },
+                {
+                    "Text": "Lo imprimes, lo firmas, lo escaneas y lo envías de vuelta",
+                    "Correct": false
+                },
+                {
+                    "Text": "Tomas una foto de tu firma y la copias y pegas",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Quieres verificar si has pagado el impuesto de tu coche:",
+            "Explanation": "Muchos lugares ofrecen servicios en línea o aplicaciones donde puedes verificar el estado del pago de tu impuesto de coche usando tu información de identificación. Este método permite una verificación rápida y conveniente sin depender de recibos en papel o preguntar a otros. Además, proporciona un registro confiable y actualizado de tu estado de pago.",
+            "Image": "U1_5",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Puedes verificar en una aplicación específica, usando tu ID",
+                    "Correct": true
+                },
+                {
+                    "Text": "Preguntas a alguien de tu familia",
+                    "Correct": false
+                },
+                {
+                    "Text": "Es imposible: nunca olvidas",
+                    "Correct": false
+                },
+                {
+                    "Text": "Buscas el recibo en papel",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Siempre es necesario ir al Ayuntamiento para solicitar un certificado:",
+            "Explanation": "No siempre es necesario ir al ayuntamiento para solicitar un certificado. Muchos certificados y documentos se pueden solicitar en línea, a través de sitios web o portales gubernamentales, sin necesidad de visitar una oficina física. Los servicios en línea se han vuelto cada vez más comunes, brindando conveniencia y eficiencia para varias tareas administrativas, incluidas las solicitudes de certificados.",
+            "Image": "U1_6",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Los certificados descargados son menos confiables que los que obtienes del municipio",
+            "Explanation": "La confiabilidad del certificado depende de la fuente y los procedimientos. Tanto los certificados físicos como digitales pueden ser confiables si son emitidos por autoridades legítimas y siguen protocolos de autenticación y cifrado. Usa fuentes oficiales y sitios web seguros o portales gubernamentales para descargar certificados digitales.",
+            "Image": "U1_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "El uso de servicios públicos en línea puede evitar esta situación.",
+            "Explanation": "El uso de servicios públicos en línea puede ayudar a evitar ciertas situaciones. Los servicios públicos en línea ofrecen varios beneficios, incluyendo conveniencia, eficiencia y accesibilidad. Al usar servicios en línea, las personas pueden evitar largas colas, ahorrar tiempo, reducir el papeleo y completar tareas desde la comodidad de sus hogares u oficinas. Además, los servicios en línea a menudo proporcionan actualizaciones y notificaciones en tiempo real, mejorando la comunicación entre ciudadanos y autoridades gubernamentales.",
+            "Image": "U1_8",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "¡Dejé mi tarjeta en casa! No te preocupes, puedo pagar porque mi teléfono tiene...",
+            "Explanation": "La tecnología NFC (Near Field Communication) te permite realizar pagos sin contacto usando tu teléfono inteligente, incluso si no tienes tu tarjeta física contigo. Al simplemente tocar tu teléfono en un terminal de pago compatible, puedes iniciar una transacción y realizar pagos sin necesidad de tu tarjeta.",
+            "Image": "U1_9",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "NFC",
+                    "Correct": true
+                },
+                {
+                    "Text": "Mucho dinero",
+                    "Correct": false
+                },
+                {
+                    "Text": "Herramientas especiales",
+                    "Correct": false
+                },
+                {
+                    "Text": "WiFi",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Es un día ocupado, y quieres ahorrar tiempo, así que...",
+            "Explanation": "Tener tu identidad digital lista puede ahorrarte tiempo en un día ocupado. Muchos servicios y agencias gubernamentales ofrecen portales en línea donde puedes acceder a información, completar transacciones y resolver consultas sin necesidad de visitas físicas. Al tener tu identidad digital y documentos necesarios listos, puedes usar eficientemente servicios en línea, ahorrando tiempo y evitando las molestias de colas o esperas en líneas de atención al cliente.",
+            "Image": "U1_10",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Tienes tu identidad digital lista",
+                    "Correct": true
+                },
+                {
+                    "Text": "Haces cola en la agencia tributaria",
+                    "Correct": false
+                },
+                {
+                    "Text": "Buscas a tu nieto para que te ayude",
+                    "Correct": false
+                },
+                {
+                    "Text": "Llamas a una línea de atención al cliente para ser más rápido",
+                    "Correct": false
+                }
+            ]
+        }
+    ]
+}

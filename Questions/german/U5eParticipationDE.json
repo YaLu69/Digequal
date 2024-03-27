@@ -1,0 +1,135 @@
+{
+    "Questions": [
+        {
+            "Question": "E-Partizipation ermöglicht es Bürgern, sich über Online-Plattformen an der Politikgestaltung und öffentlichen Entscheidungsfindung zu beteiligen.",
+            "Explanation": "E-Partizipation ermöglicht es Bürgern, sich über Online-Plattformen an der Politikgestaltung und öffentlichen Entscheidungsfindung zu beteiligen. Betont, wie E-Partizipation die Beteiligung der Bürger an der Regierungsführung durch digitale Plattformen ermöglicht.",
+            "Image": "U5_1",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "E-Partizipation fördert Transparenz und Rechenschaftspflicht in der Regierungsführung.",
+            "Explanation": "E-Partizipation fördert Transparenz und Rechenschaftspflicht in der Regierungsführung. Zeigt, wie E-Partizipation die Transparenz und Rechenschaftspflicht der Regierung verbessern kann.",
+            "Image": "U5_2",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Welche der folgenden Optionen gelten als Bedrohung/Herausforderung für die E-Gesundheit?",
+            "Explanation": "Soziale Medien, E-Wahlsysteme und Online-Konsultationen sind Beispiele für E-Partizipationsplattformen.",
+            "Image": "U5_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Sicherheit und Datenschutz",
+                    "Correct": false
+                },
+                {
+                    "Text": "Niedrige Kosten",
+                    "Correct": false
+                },
+                {
+                    "Text": "mHealth",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Vorteile der E-Partizipation sind unter anderem:",
+            "Explanation": "Sie erhöht das bürgerschaftliche Engagement, verbessert die Demokratie und fördert die Politikgestaltung.",
+            "Image": "U5_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Erhöhtes bürgerschaftliches Engagement",
+                    "Correct": false
+                },
+                {
+                    "Text": "Verbesserte Demokratie",
+                    "Correct": false
+                },
+                {
+                    "Text": "Verbesserte Politikgestaltung",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "E-Voting ermöglicht es Bürgern, ihre Stimmen remote über elektronische Systeme anstatt über Papierwahlzettel abzugeben.",
+            "Explanation": "E-Voting ermöglicht es Bürgern, online/per Geräte abzustimmen, anstatt physisch zu Wahllokalen zu gehen.",
+            "Image": "U5_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Politikgestaltung bezieht sich auf den Prozess der Formulierung von Richtlinien, Gesetzen, Vorschriften usw.",
+            "Explanation": "Politikgestaltung umfasst die Entwicklung von Richtlinien und Gesetzen auf Regierungsebene. Definiert Politikgestaltung und ihre Rolle in der Regierungsführung.",
+            "Image": "U5_6",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "E-Beratungsplattformen ermöglichen es Bürgern, online Meinungen zu öffentlichen politischen Themen abzugeben.",
+            "Explanation": "E-Beratungen ermöglichen es Bürgern, über digitale Plattformen Eingaben zu Politiken zu machen. | ermöglichen es Bürgern, online Meinungen zu öffentlichen politischen Themen abzugeben. | E-Beratungsplattformen ermöglichen es Bürgern, online Meinungen zu öffentlichen politischen Themen abzugeben.",
+            "Image": "U5_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Herausforderungen der E-Partizipation sind unter anderem:",
+            "Explanation": "Es verwendet IKT und digitale Plattformen, um die Bürgerbeteiligung zu ermöglichen. Alle Optionen sind wichtige Herausforderungen.",
+            "Image": "U5_8",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Alle Antworten sind korrekt",
+                    "Correct": true
+                },
+                {
+                    "Text": "Digitale Kluft",
+                    "Correct": false
+                },
+                {
+                    "Text": "Datenschutzbedenken",
+                    "Correct": false
+                },
+                {
+                    "Text": "Niedrige Übernahmequoten",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "E-Partizipation nutzt Technologie, um aktive Bürgerbeteiligung zu erleichtern.",
+            "Explanation": "Es verwendet IKT und digitale Plattformen, um die Bürgerbeteiligung zu ermöglichen. E-Partizipation nutzt Technologie, um aktive Bürgerbeteiligung zu erleichtern.",
+            "Image": "U5_9",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Online auf verschiedene Arten teilzunehmen, Online-Unterschriften, Umfrageantworten, E-Mail-Bombardierung usw., ist immer eine gute Idee!",
+            "Explanation": "Bessere Bürgerbeteiligung und verbesserte politische Entscheidungen sind das Ziel. Ziel der E-Partizipation ist es, die Bürgerbeteiligung und die öffentliche Entscheidungsfindung zu verbessern, um die Bürgerbeteiligung und die öffentliche Entscheidungsfindung zu verbessern.",
+            "Image": "U5_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

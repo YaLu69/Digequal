@@ -1,0 +1,152 @@
+{
+    "Questions": [
+        {
+            "Question": "La e-salud nos permite reservar citas médicas fácilmente a través de plataformas en línea.",
+            "Explanation": "Las plataformas en línea permiten a los usuarios reservar citas médicas ahorrando dinero y tiempo si no tienen tiempo para visitar a sus médicos en persona.",
+            "Image": "U2_1",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Las personas pueden ahorrar tiempo y eliminar interacciones físicas con los médicos al usar plataformas en línea.",
+            "Explanation": "El uso de plataformas en línea para la atención médica permite a las personas ahorrar tiempo y reducir la necesidad de visitas médicas en persona al proporcionar un acceso virtual conveniente a consejos médicos y servicios.",
+            "Image": "U2_2",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "¿Cuál de las siguientes opciones se considera una amenaza/desafío de la e-salud?",
+            "Explanation": "La seguridad y la privacidad son los principales desafíos a los que se enfrenta la e-salud durante los años debido al hecho de que la información personal de las personas puede ser fácilmente hackeada o robada.",
+            "Image": "U2_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Seguridad y privacidad",
+                    "Correct": true
+                },
+                {
+                    "Text": "Costos bajos",
+                    "Correct": false
+                },
+                {
+                    "Text": "mHealth",
+                    "Correct": false
+                },
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "La e-salud nos da acceso a nuestros registros médicos en línea.",
+            "Explanation": "La e-salud, también conocida como salud electrónica, indica que las personas, entre otros beneficios, pueden acceder a su información médica no solo de los médicos sino también de varios dispositivos y servicios.",
+            "Image": "U2_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Los servicios de telemedicina nos permiten consultar con profesionales de la salud en cualquier momento y lugar.",
+            "Explanation": "Recibir consultas de telemedicina indica que los pacientes pueden reunirse con profesionales de la salud solo usando sus dispositivos electrónicos sin importar la hora o el lugar.",
+            "Image": "U2_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Ejemplos de servicios de e-salud:",
+            "Explanation": "Los servicios de e-salud solo incluyen aplicaciones, juegos y tecnología portátil. Las otras opciones se mezclan con algunos tipos de e-salud, no con servicios.",
+            "Image": "U2_6",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Aplicaciones, Juegos Serios, Tecnología Portátil",
+                    "Correct": true
+                },
+                {
+                    "Text": "HER, E-Prescripción, Telemedicina",
+                    "Correct": false
+                },
+                {
+                    "Text": "CHI, M-salud, Sensores, Dispositivos Portátiles",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ninguna de las respuestas es correcta",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Las aplicaciones/dispositivos portátiles/rastreadores de e-salud nos ayudan a rastrear:",
+            "Explanation": "Los rastreadores de e-salud están diseñados de tal manera que pueden monitorear problemas relacionados con la salud, como medicación, niveles de actividad, patrones de sueño, etc., para apoyar la gestión y el monitoreo de la salud de uno.",
+            "Image": "U2_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Medicación",
+                    "Correct": false
+                },
+                {
+                    "Text": "Patrones de sueño",
+                    "Correct": false
+                },
+                {
+                    "Text": "Niveles de actividad",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "La alfabetización en e-salud:",
+            "Explanation": "La alfabetización en e-salud no solo protege a las personas del daño/desinformación en línea y previene problemas de salud, sino que también garantiza que las personas puedan evaluar críticamente la información en línea y usar herramientas en línea de manera efectiva para gestionar su salud.",
+            "Image": "U2_8",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Todas las respuestas son correctas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Proteger la salud de las personas y mejorar la gestión de los problemas de salud",
+                    "Correct": false
+                },
+                {
+                    "Text": "Protege a las personas del daño y las empodera para participar en la toma de decisiones relacionadas con la salud informadas",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ayuda a las personas a prevenir problemas de salud",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Podemos comunicarnos de forma segura con los médicos a través de sistemas de mensajería de e-salud.",
+            "Explanation": "Aunque la seguridad es un desafío para la e-salud, los sistemas de mensajería a menudo siguen pasos cruciales para garantizar la seguridad de los datos de los pacientes, como la autenticación de usuario, redes seguras, comunicación encriptada, monitoreo de actividades sospechosas y más.",
+            "Image": "U2_9",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "La mala interpretación de la información de salud en línea podría llevarnos a tomar decisiones de salud incorrectas.",
+            "Explanation": "Si malinterpretamos la información de salud que encontramos en línea, podríamos tomar decisiones incorrectas para nuestra salud. Las fuentes en línea pueden no ser precisas o considerar nuestras necesidades personales, lo que nos lleva a tomar decisiones basadas en información incorrecta que a su vez podría dañar nuestra salud en lugar de ayudarla.",
+            "Image": "U2_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

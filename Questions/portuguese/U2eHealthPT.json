@@ -1,0 +1,152 @@
+{
+    "Questions": [
+        {
+            "Question": "A e-saúde nos permite marcar consultas médicas facilmente por meio de plataformas online.",
+            "Explanation": "As plataformas online permitem aos usuários marcar consultas médicas economizando tempo e dinheiro se não tiverem tempo para visitar seus médicos pessoalmente.",
+            "Image": "U2_1",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "As pessoas podem economizar tempo e eliminar interações físicas com médicos ao usar plataformas online.",
+            "Explanation": "O uso de plataformas online para cuidados de saúde permite às pessoas economizar tempo e reduzir a necessidade de visitas médicas presenciais, fornecendo acesso virtual conveniente a conselhos médicos e serviços.",
+            "Image": "U2_2",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Quais das seguintes opções são consideradas uma ameaça/desafio da e-saúde.",
+            "Explanation": "Segurança e privacidade são os principais desafios que a e-saúde enfrenta ao longo dos anos devido ao fato de que as informações pessoais das pessoas podem ser facilmente hackeadas ou roubadas.",
+            "Image": "U2_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Segurança e privacidade",
+                    "Correct": true
+                },
+                {
+                    "Text": "Baixos custos",
+                    "Correct": false
+                },
+                {
+                    "Text": "M-saúde",
+                    "Correct": false
+                },
+                {
+                    "Text": "Todas as respostas estão corretas",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "A e-saúde nos dá acesso aos nossos registros médicos online.",
+            "Explanation": "E-saúde, também conhecida como saúde eletrônica, indica que as pessoas, entre outros benefícios, são capazes de ter acesso às suas informações médicas não apenas dos médicos, mas também de vários dispositivos e serviços.",
+            "Image": "U2_4",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Serviços de telemedicina nos permitem consultar profissionais de saúde a qualquer momento, em qualquer lugar.",
+            "Explanation": "Receber consultas de telemedicina indica que os pacientes podem se encontrar com profissionais de saúde apenas usando seus dispositivos eletrônicos, não importa a hora ou o lugar.",
+            "Image": "U2_5",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "Exemplos de serviços de e-saúde:",
+            "Explanation": "Serviços de e-saúde incluem apenas aplicativos, jogos e tecnologia vestível. As outras opções estão misturadas com alguns tipos de e-saúde, não serviços.",
+            "Image": "U2_6",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Aplicativos, Jogos Sérios, Tecnologia Vestível",
+                    "Correct": true
+                },
+                {
+                    "Text": "HER, Prescrição Eletrônica, Telemedicina",
+                    "Correct": false
+                },
+                {
+                    "Text": "CHI, M-saúde, Sensores, Dispositivos Vestíveis",
+                    "Correct": false
+                },
+                {
+                    "Text": "Nenhuma das respostas está correta",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Aplicativos/tecnologia vestível/rastreadores de e-saúde nos ajudam a rastrear:",
+            "Explanation": "Rastreadores de e-saúde são projetados de forma a monitorar questões relacionadas à saúde, como medicação, níveis de atividade, padrões de sono, etc., para apoiar o gerenciamento e monitoramento da saúde de uma pessoa.",
+            "Image": "U2_7",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Todas as respostas estão corretas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Medicação",
+                    "Correct": false
+                },
+                {
+                    "Text": "Padrões de sono",
+                    "Correct": false
+                },
+                {
+                    "Text": "Níveis de atividade",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Letramento em e-saúde:",
+            "Explanation": "O letramento em e-saúde não apenas protege as pessoas de danos/desinformação online e previne problemas de saúde, mas também garante que as pessoas possam avaliar criticamente informações online e usar ferramentas online de forma eficaz para gerenciar sua saúde.",
+            "Image": "U2_8",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Todas as respostas estão corretas",
+                    "Correct": true
+                },
+                {
+                    "Text": "Proteger a saúde das pessoas e melhor gerenciar problemas de saúde",
+                    "Correct": false
+                },
+                {
+                    "Text": "Proteger as pessoas de danos e capacitá-las a participar de tomadas de decisão relacionadas à saúde informadas",
+                    "Correct": false
+                },
+                {
+                    "Text": "Ajudar as pessoas a prevenir problemas de saúde",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Podemos nos comunicar de forma segura com médicos por meio de sistemas de mensagens de e-saúde.",
+            "Explanation": "Embora a segurança seja um desafio para a e-saúde, os sistemas de mensagens frequentemente seguem etapas cruciais para garantir a segurança dos dados dos pacientes, como autenticação de usuários, redes seguras, comunicação criptografada, monitoramento de atividades suspeitas, entre outros.",
+            "Image": "U2_9",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "A má interpretação de informações de saúde online pode nos levar a decisões de saúde erradas.",
+            "Explanation": "Se entendermos mal as informações de saúde que encontramos online, podemos tomar decisões erradas para nossa saúde. As fontes online podem não ser precisas ou considerar nossas necessidades pessoais, levando-nos a tomar decisões com base em informações incorretas que, por sua vez, poderiam prejudicar nossa saúde em vez de ajudá-la.",
+            "Image": "U2_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}

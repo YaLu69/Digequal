@@ -1,0 +1,169 @@
+{
+    "Questions": [
+        {
+            "Question": "Puoi subire un furto di identità prenotando un viaggio presso un'agenzia di viaggi?",
+            "Explanation": "Il furto di identità può verificarsi se qualcuno ottiene accesso alle tue informazioni personali, come il tuo nome, indirizzo o dettagli della carta di credito, durante l'elaborazione della prenotazione. È importante fare attenzione e proteggere le tue informazioni personali sia che tu prenoti online o di persona.",
+            "Image": "U4_1",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Sì",
+                    "Correct": true
+                },
+                {
+                    "Text": "No",
+                    "Correct": false
+                },
+                {
+                    "Text": "Solo se paghi in contanti",
+                    "Correct": false
+                },
+                {
+                    "Text": "Solo se prenoti per telefono",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Un amico o un parente ti manda un messaggio da un numero sconosciuto chiedendo aiuto:",
+            "Explanation": "Se qualcuno che conosci ti manda un messaggio da un numero sconosciuto chiedendo aiuto, dovresti verificare l'identità del chiamante prima di agire. Puoi chiamare il chiamante su un numero conosciuto o fargli domande specifiche che solo lui conosce per assicurarti che sia davvero lui.",
+            "Image": "U4_2",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Cerca di verificare l'identità",
+                    "Correct": true
+                },
+                {
+                    "Text": "Chiedi di vedere il loro profilo sui social media",
+                    "Correct": false
+                },
+                {
+                    "Text": "Invia immediatamente denaro",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non fai nulla",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Stai leggendo il giornale online, ma le lettere sono troppo piccole. Cosa fai?",
+            "Explanation": "Se le lettere sono troppo piccole quando leggi il giornale online, puoi regolare la dimensione del carattere nelle impostazioni del sito web. La maggior parte dei siti web ti consente di aumentare o diminuire la dimensione del carattere per rendere la lettura più confortevole. In questo modo puoi continuare a leggere senza difficoltà.",
+            "Image": "U4_3",
+            "isToF": false,
+            "ToFAnswer": false,
+            "Answers": [
+                {
+                    "Text": "Regola la dimensione del carattere nelle impostazioni del sito web",
+                    "Correct": true
+                },
+                {
+                    "Text": "Ignora il problema e continua a leggere",
+                    "Correct": false
+                },
+                {
+                    "Text": "Chiudi il sito web e cerca un giornale stampato",
+                    "Correct": false
+                },
+                {
+                    "Text": "Compra un nuovo computer con uno schermo più grande",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Qual è il miglior metodo di pagamento quando prenoti online?",
+            "Explanation": "",
+            "Image": "U4_4",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "PayPal o carta di credito",
+                    "Correct": true
+                },
+                {
+                    "Text": "Pagamento alla consegna",
+                    "Correct": false
+                },
+                {
+                    "Text": "Bonifico bancario diretto",
+                    "Correct": false
+                },
+                {
+                    "Text": "Non paghi",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Perché è importante creare password sicure per gli account online?",
+            "Explanation": "Creare password sicure per gli account online è essenziale per proteggere le informazioni personali e impedire a persone non autorizzate di accedere a dati sensibili per proteggere la privacy e la sicurezza.",
+            "Image": "U4_5",
+            "isToF": false,
+            "ToFAnswer": true,
+            "Answers": [
+                {
+                    "Text": "Per proteggere i tuoi account dall'accesso non autorizzato",
+                    "Correct": true
+                },
+                {
+                    "Text": "Per impressionare i tuoi amici con la tua abilità tecnica",
+                    "Correct": false
+                },
+                {
+                    "Text": "Per renderti più facile ricordare i tuoi dettagli di accesso",
+                    "Correct": false
+                },
+                {
+                    "Text": "Per ottenere sconti speciali sui servizi elettronici",
+                    "Correct": false
+                }
+            ]
+        },
+        {
+            "Question": "Le attività di svago online possono portare l'intrattenimento direttamente a casa tua.",
+            "Explanation": "",
+            "Image": "U4_6",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        },
+        {
+            "Question": "È sicuro fare clic su link nelle e-mail che promettono grandi premi o vincite alla lotteria.",
+            "Explanation": "Fare clic su link nelle e-mail che promettono grandi premi o vincite alla lotteria può essere rischioso. Queste e-mail potrebbero essere truffe mirate a rubare informazioni personali o diffondere virus dannosi.",
+            "Image": "U4_7",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "I giochi online sono solo per bambini.",
+            "Explanation": "C'è una vasta gamma di giochi online realizzati per gusti e capacità diverse. Impegnarsi in giochi online può offrire numerosi vantaggi, come migliorare le capacità cognitive, promuovere l'interazione sociale attraverso giochi multiplayer, ridurre lo stress e fornire un modo divertente per rimanere mentalmente attivi. I giochi online possono essere un'esperienza divertente e arricchente. Ti incoraggiamo ad esplorare il mondo digitale senza paura o esitazione!",
+            "Image": "U4_8",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Airbnb è solo per alloggi.",
+            "Explanation": "Su Airbnb puoi trovare una varietà di attività da fare nella tua città o durante i viaggi. È un ottimo modo per conoscere una città come un locale.",
+            "Image": "U4_9",
+            "isToF": true,
+            "ToFAnswer": false,
+            "Answers": []
+        },
+        {
+            "Question": "Le recensioni dei clienti su piattaforme di prenotazione possono darti un'idea della qualità di un hotel.",
+            "Explanation": "",
+            "Image": "U4_10",
+            "isToF": true,
+            "ToFAnswer": true,
+            "Answers": []
+        }
+    ]
+}
